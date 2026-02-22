@@ -336,6 +336,30 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Dict",
         "importPath": "typing",
         "description": "typing",
@@ -409,6 +433,142 @@
     },
     {
         "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -776,6 +936,70 @@
         "documentation": {}
     },
     {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "datetime",
         "importPath": "datetime",
         "description": "datetime",
@@ -805,6 +1029,22 @@
         "description": "datetime",
         "isExtraImport": true,
         "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
         "documentation": {}
     },
     {
@@ -961,6 +1201,62 @@
     },
     {
         "label": "report_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "connect_to_database",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "close_database_connection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "check_database_health",
         "importPath": "app.database",
         "description": "app.database",
         "isExtraImport": true,
@@ -1240,6 +1536,70 @@
         "documentation": {}
     },
     {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
         "label": "APIRouter",
         "importPath": "fastapi",
         "description": "fastapi",
@@ -1449,6 +1809,22 @@
     },
     {
         "label": "AIResponseType",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationRequest",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationResponse",
         "importPath": "app.schemas.ai_schema",
         "description": "app.schemas.ai_schema",
         "isExtraImport": true,
@@ -2032,11 +2408,227 @@
         "documentation": {}
     },
     {
-        "label": "Enum",
-        "importPath": "enum",
-        "description": "enum",
+        "label": "PatientCreate",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
         "isExtraImport": true,
-        "detail": "enum",
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientUpdate",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientResponse",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientPublicView",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientFilter",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientStats",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalHistory",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientAIContext",
+        "importPath": "app.schemas.patient_schema",
+        "description": "app.schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_patient",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_by_id",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_patients",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_patient",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_patient",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_stats",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_medical_history",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_ai_context",
+        "importPath": "app.services.patient_service",
+        "description": "app.services.patient_service",
+        "isExtraImport": true,
+        "detail": "app.services.patient_service",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionCreate",
+        "importPath": "app.schemas.prescription_schema",
+        "description": "app.schemas.prescription_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.prescription_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionUpdate",
+        "importPath": "app.schemas.prescription_schema",
+        "description": "app.schemas.prescription_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.prescription_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionResponse",
+        "importPath": "app.schemas.prescription_schema",
+        "description": "app.schemas.prescription_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.prescription_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionMedicine",
+        "importPath": "app.schemas.prescription_schema",
+        "description": "app.schemas.prescription_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.prescription_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_prescription",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_prescription_by_id",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_prescriptions",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_doctor_prescriptions",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_prescription",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_prescription",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "add_medicine_to_prescription",
+        "importPath": "app.services.prescription_service",
+        "description": "app.services.prescription_service",
+        "isExtraImport": true,
+        "detail": "app.services.prescription_service",
+        "documentation": {}
+    },
+    {
+        "label": "explain_prescription",
+        "importPath": "ai.prescription_explainer",
+        "description": "ai.prescription_explainer",
+        "isExtraImport": true,
+        "detail": "ai.prescription_explainer",
         "documentation": {}
     },
     {
@@ -2069,6 +2661,378 @@
         "description": "enum",
         "isExtraImport": true,
         "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentCreate",
+        "importPath": "schemas.appointment_schema",
+        "description": "schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentUpdate",
+        "importPath": "schemas.appointment_schema",
+        "description": "schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentFilter",
+        "importPath": "schemas.appointment_schema",
+        "description": "schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "BillingCreate",
+        "importPath": "schemas.billing_schema",
+        "description": "schemas.billing_schema",
+        "isExtraImport": true,
+        "detail": "schemas.billing_schema",
+        "documentation": {}
+    },
+    {
+        "label": "BillingUpdate",
+        "importPath": "schemas.billing_schema",
+        "description": "schemas.billing_schema",
+        "isExtraImport": true,
+        "detail": "schemas.billing_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientCreate",
+        "importPath": "schemas.patient_schema",
+        "description": "schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientUpdate",
+        "importPath": "schemas.patient_schema",
+        "description": "schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientFilter",
+        "importPath": "schemas.patient_schema",
+        "description": "schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalHistory",
+        "importPath": "schemas.patient_schema",
+        "description": "schemas.patient_schema",
+        "isExtraImport": true,
+        "detail": "schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "RotatingFileHandler",
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "isExtraImport": true,
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "RotatingFileHandler",
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "isExtraImport": true,
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionFailure",
+        "importPath": "pymongo.errors",
+        "description": "pymongo.errors",
+        "isExtraImport": true,
+        "detail": "pymongo.errors",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "BACKENED.app.config",
+        "description": "BACKENED.app.config",
+        "isExtraImport": true,
+        "detail": "BACKENED.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "utils.logger",
+        "description": "utils.logger",
+        "isExtraImport": true,
+        "detail": "utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "importPath": "utils.logger",
+        "description": "utils.logger",
+        "isExtraImport": true,
+        "detail": "utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "RequestValidationError",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "starlette.exceptions",
+        "description": "starlette.exceptions",
+        "isExtraImport": true,
+        "detail": "starlette.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "patients",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "doctors",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "appointments",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "billing",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "prescriptions",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "ai_routes",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
         "documentation": {}
     },
     {
@@ -2125,22 +3089,6 @@
         "description": "app.models.appointment_model",
         "isExtraImport": true,
         "detail": "app.models.appointment_model",
-        "documentation": {}
-    },
-    {
-        "label": "CryptContext",
-        "importPath": "passlib.context",
-        "description": "passlib.context",
-        "isExtraImport": true,
-        "detail": "passlib.context",
-        "documentation": {}
-    },
-    {
-        "label": "CryptContext",
-        "importPath": "passlib.context",
-        "description": "passlib.context",
-        "isExtraImport": true,
-        "detail": "passlib.context",
         "documentation": {}
     },
     {
@@ -2209,22 +3157,6 @@
         "documentation": {}
     },
     {
-        "label": "HTMLResponse",
-        "importPath": "fastapi.responses",
-        "description": "fastapi.responses",
-        "isExtraImport": true,
-        "detail": "fastapi.responses",
-        "documentation": {}
-    },
-    {
-        "label": "JSONResponse",
-        "importPath": "fastapi.responses",
-        "description": "fastapi.responses",
-        "isExtraImport": true,
-        "detail": "fastapi.responses",
-        "documentation": {}
-    },
-    {
         "label": "Billing",
         "importPath": "app.models.billing_model",
         "description": "app.models.billing_model",
@@ -2238,22 +3170,6 @@
         "description": "app.models.doctor_model",
         "isExtraImport": true,
         "detail": "app.models.doctor_model",
-        "documentation": {}
-    },
-    {
-        "label": "JWTError",
-        "importPath": "jose",
-        "description": "jose",
-        "isExtraImport": true,
-        "detail": "jose",
-        "documentation": {}
-    },
-    {
-        "label": "jwt",
-        "importPath": "jose",
-        "description": "jose",
-        "isExtraImport": true,
-        "detail": "jose",
         "documentation": {}
     },
     {
@@ -2278,14 +3194,6 @@
         "description": "app.models.prescription_model",
         "isExtraImport": true,
         "detail": "app.models.prescription_model",
-        "documentation": {}
-    },
-    {
-        "label": "CORSMiddleware",
-        "importPath": "fastapi.middleware.cors",
-        "description": "fastapi.middleware.cors",
-        "isExtraImport": true,
-        "detail": "fastapi.middleware.cors",
         "documentation": {}
     },
     {
@@ -2369,15 +3277,6 @@
         "documentation": {}
     },
     {
-        "label": "os",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "os",
-        "description": "os",
-        "detail": "os",
-        "documentation": {}
-    },
-    {
         "label": "load_dotenv",
         "importPath": "dotenv",
         "description": "dotenv",
@@ -2388,703 +3287,946 @@
     {
         "label": "Appointment",
         "kind": 6,
-        "importPath": "BACKENED.APP.MODELS.appointment_model",
-        "description": "BACKENED.APP.MODELS.appointment_model",
+        "importPath": "BACKENED.app.models.appointment_model",
+        "description": "BACKENED.app.models.appointment_model",
         "peekOfCode": "class Appointment(BaseModel):\n    patient_id: str       # MongoDB ObjectId of patient as string\n    doctor_id: str        # MongoDB ObjectId of doctor as string\n    appointment_date: str # YYYY-MM-DD\n    appointment_time: str # HH:MM\n    reason: Optional[str] = None\n    status: Optional[str] = \"Scheduled\"\n# ----------------------------\n# Helper Functions for CRUD\n# ----------------------------",
-        "detail": "BACKENED.APP.MODELS.appointment_model",
+        "detail": "BACKENED.app.models.appointment_model",
         "documentation": {}
     },
     {
         "label": "Billing",
         "kind": 6,
-        "importPath": "BACKENED.APP.MODELS.billing_model",
-        "description": "BACKENED.APP.MODELS.billing_model",
+        "importPath": "BACKENED.app.models.billing_model",
+        "description": "BACKENED.app.models.billing_model",
         "peekOfCode": "class Billing(BaseModel):\n    patient_id: str           # MongoDB ObjectId of the patient as string\n    appointment_id: Optional[str] = None  # Optional linked appointment\n    doctor_id: str            # MongoDB ObjectId of the doctor\n    services: list            # List of services or treatments\n    total_amount: float\n    status: Optional[str] = \"Unpaid\"  # Paid / Unpaid\n    payment_method: Optional[str] = None  # Cash / Card / Online\n    billing_date: Optional[str] = None  # YYYY-MM-DD\n# ----------------------------",
-        "detail": "BACKENED.APP.MODELS.billing_model",
+        "detail": "BACKENED.app.models.billing_model",
         "documentation": {}
     },
     {
         "label": "Doctor",
         "kind": 6,
-        "importPath": "BACKENED.APP.MODELS.doctor_model",
-        "description": "BACKENED.APP.MODELS.doctor_model",
+        "importPath": "BACKENED.app.models.doctor_model",
+        "description": "BACKENED.app.models.doctor_model",
         "peekOfCode": "class Doctor(BaseModel):\n    name: str\n    specialization: str\n    experience: int       # in years\n    phone: str\n    email: Optional[str] = None\n    address: Optional[str] = None\n# ----------------------------\n# Helper Functions for CRUD\n# ----------------------------",
-        "detail": "BACKENED.APP.MODELS.doctor_model",
+        "detail": "BACKENED.app.models.doctor_model",
         "documentation": {}
     },
     {
         "label": "Patient",
         "kind": 6,
-        "importPath": "BACKENED.APP.MODELS.patients_model",
-        "description": "BACKENED.APP.MODELS.patients_model",
+        "importPath": "BACKENED.app.models.patients_model",
+        "description": "BACKENED.app.models.patients_model",
         "peekOfCode": "class Patient(BaseModel):\n    name: str\n    age: int\n    gender: str\n    phone: str\n    email: Optional[str] = None\n    address: Optional[str] = None\n    medical_history: Optional[str] = None\n# ----------------------------\n# Helper Functions for CRUD",
-        "detail": "BACKENED.APP.MODELS.patients_model",
+        "detail": "BACKENED.app.models.patients_model",
         "documentation": {}
     },
     {
         "label": "Prescription",
         "kind": 6,
-        "importPath": "BACKENED.APP.MODELS.prescription_model",
-        "description": "BACKENED.APP.MODELS.prescription_model",
+        "importPath": "BACKENED.app.models.prescription_model",
+        "description": "BACKENED.app.models.prescription_model",
         "peekOfCode": "class Prescription(BaseModel):\n    patient_id: str           # MongoDB ObjectId of the patient\n    doctor_id: str            # MongoDB ObjectId of the doctor\n    appointment_id: Optional[str] = None  # Optional linked appointment\n    medicines: List[str]      # List of medicine names\n    dosage: List[str]         # Corresponding dosages\n    instructions: Optional[str] = None\n    date: Optional[str] = None  # YYYY-MM-DD\n    notes: Optional[str] = None\n# ----------------------------",
-        "detail": "BACKENED.APP.MODELS.prescription_model",
+        "detail": "BACKENED.app.models.prescription_model",
         "documentation": {}
     },
     {
         "label": "Report",
         "kind": 6,
-        "importPath": "BACKENED.APP.MODELS.report_model",
-        "description": "BACKENED.APP.MODELS.report_model",
+        "importPath": "BACKENED.app.models.report_model",
+        "description": "BACKENED.app.models.report_model",
         "peekOfCode": "class Report(BaseModel):\n    patient_id: str            # MongoDB ObjectId of the patient\n    doctor_id: str             # MongoDB ObjectId of the doctor\n    appointment_id: Optional[str] = None  # Optional linked appointment\n    report_type: str           # e.g., Blood Test, X-ray, MRI\n    findings: Optional[str] = None\n    recommendations: Optional[str] = None\n    date: Optional[str] = None  # YYYY-MM-DD\n    file_url: Optional[str] = None  # URL if report is uploaded as file\n# ----------------------------",
-        "detail": "BACKENED.APP.MODELS.report_model",
+        "detail": "BACKENED.app.models.report_model",
         "documentation": {}
     },
     {
         "label": "router",
         "kind": 5,
-        "importPath": "BACKENED.APP.ROUTERS.ai_routes",
-        "description": "BACKENED.APP.ROUTERS.ai_routes",
+        "importPath": "BACKENED.app.routers.ai_routes",
+        "description": "BACKENED.app.routers.ai_routes",
         "peekOfCode": "router = APIRouter(prefix=\"/ai\", tags=[\"AI\"])\n# ===============================\n# 🤖 AI CHAT\n# ===============================\n@router.post(\"/chat\", response_model=AIChatResponse)\nasync def chat_with_ai(payload: AIChatRequest):\n    try:\n        result = await process_chat(payload)\n        # Save conversation memory\n        await save_memory_entry(",
-        "detail": "BACKENED.APP.ROUTERS.ai_routes",
+        "detail": "BACKENED.app.routers.ai_routes",
         "documentation": {}
     },
     {
         "label": "router",
         "kind": 5,
-        "importPath": "BACKENED.APP.ROUTERS.appointments",
-        "description": "BACKENED.APP.ROUTERS.appointments",
+        "importPath": "BACKENED.app.routers.appointments",
+        "description": "BACKENED.app.routers.appointments",
         "peekOfCode": "router = APIRouter(prefix=\"/appointments\", tags=[\"Appointments\"])\n# ==================================\n# 📌 CREATE APPOINTMENT\n# ==================================\n@router.post(\"/\", response_model=AppointmentResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: AppointmentCreate):\n    try:\n        return await create_appointment(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
-        "detail": "BACKENED.APP.ROUTERS.appointments",
+        "detail": "BACKENED.app.routers.appointments",
         "documentation": {}
     },
     {
         "label": "router",
         "kind": 5,
-        "importPath": "BACKENED.APP.ROUTERS.auth",
-        "description": "BACKENED.APP.ROUTERS.auth",
+        "importPath": "BACKENED.app.routers.auth",
+        "description": "BACKENED.app.routers.auth",
         "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"Authentication\"])\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\n# ==================================\n# 📝 REGISTER\n# ==================================\n@router.post(\"/register\", response_model=AuthResponse, status_code=status.HTTP_201_CREATED)\nasync def register(payload: UserRegister):\n    try:\n        return await register_user(payload)\n    except Exception as e:",
-        "detail": "BACKENED.APP.ROUTERS.auth",
+        "detail": "BACKENED.app.routers.auth",
         "documentation": {}
     },
     {
         "label": "oauth2_scheme",
         "kind": 5,
-        "importPath": "BACKENED.APP.ROUTERS.auth",
-        "description": "BACKENED.APP.ROUTERS.auth",
+        "importPath": "BACKENED.app.routers.auth",
+        "description": "BACKENED.app.routers.auth",
         "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\n# ==================================\n# 📝 REGISTER\n# ==================================\n@router.post(\"/register\", response_model=AuthResponse, status_code=status.HTTP_201_CREATED)\nasync def register(payload: UserRegister):\n    try:\n        return await register_user(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
-        "detail": "BACKENED.APP.ROUTERS.auth",
+        "detail": "BACKENED.app.routers.auth",
         "documentation": {}
     },
     {
         "label": "router",
         "kind": 5,
-        "importPath": "BACKENED.APP.ROUTERS.billing",
-        "description": "BACKENED.APP.ROUTERS.billing",
+        "importPath": "BACKENED.app.routers.billing",
+        "description": "BACKENED.app.routers.billing",
         "peekOfCode": "router = APIRouter(prefix=\"/billing\", tags=[\"Billing\"])\n# ==================================\n# 💰 CREATE BILL\n# ==================================\n@router.post(\"/\", response_model=BillingResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: BillingCreate):\n    try:\n        return await create_bill(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
-        "detail": "BACKENED.APP.ROUTERS.billing",
+        "detail": "BACKENED.app.routers.billing",
         "documentation": {}
     },
     {
         "label": "router",
         "kind": 5,
-        "importPath": "BACKENED.APP.ROUTERS.doctors",
-        "description": "BACKENED.APP.ROUTERS.doctors",
+        "importPath": "BACKENED.app.routers.doctors",
+        "description": "BACKENED.app.routers.doctors",
         "peekOfCode": "router = APIRouter(prefix=\"/doctors\", tags=[\"Doctors\"])\n# ==================================\n# 👨‍⚕️ CREATE DOCTOR\n# ==================================\n@router.post(\"/\", response_model=DoctorResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: DoctorCreate):\n    try:\n        return await create_doctor(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
-        "detail": "BACKENED.APP.ROUTERS.doctors",
+        "detail": "BACKENED.app.routers.doctors",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.app.routers.patients",
+        "description": "BACKENED.app.routers.patients",
+        "peekOfCode": "router = APIRouter(prefix=\"/patients\", tags=[\"Patients\"])\n# ==================================\n# 👤 CREATE PATIENT\n# ==================================\n@router.post(\"/\", response_model=PatientResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: PatientCreate):\n    try:\n        return await create_patient(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
+        "detail": "BACKENED.app.routers.patients",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.app.routers.prescriptions",
+        "description": "BACKENED.app.routers.prescriptions",
+        "peekOfCode": "router = APIRouter(prefix=\"/prescriptions\", tags=[\"Prescriptions\"])\n# ==================================\n# 📝 CREATE PRESCRIPTION\n# ==================================\n@router.post(\"/\", response_model=PrescriptionResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: PrescriptionCreate):\n    try:\n        return await create_prescription(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
+        "detail": "BACKENED.app.routers.prescriptions",
         "documentation": {}
     },
     {
         "label": "UserRole",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class UserRole(str, Enum):\n    patient = \"patient\"\n    doctor = \"doctor\"\n    admin = \"admin\"\nclass AIResponseType(str, Enum):\n    chat = \"chat\"\n    summary = \"summary\"\n    explanation = \"explanation\"\n    anomaly = \"anomaly\"\n    analytics = \"analytics\"",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AIResponseType",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AIResponseType(str, Enum):\n    chat = \"chat\"\n    summary = \"summary\"\n    explanation = \"explanation\"\n    anomaly = \"anomaly\"\n    analytics = \"analytics\"\nclass AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AIChatRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None\n    message: str = Field(..., min_length=2)\n    context: Optional[Dict[str, Any]] = None  # optional metadata\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    sources: Optional[List[str]] = None",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AIChatResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    sources: Optional[List[str]] = None\n    confidence_score: Optional[float] = None\n    timestamp: Optional[str] = None\nclass RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int]\n    snippet: str",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "RAGSource",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int]\n    snippet: str\n    score: float\nclass ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "ReportSummaryRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]]\n    risk_level: Optional[str]\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "ReportSummaryResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]]\n    risk_level: Optional[str]\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "PrescriptionExplanationRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]\n    side_effects: Optional[List[str]]\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "PrescriptionExplanationResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]\n    side_effects: Optional[List[str]]\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AnomalyDetectionRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]\n    severity_level: Optional[str]\n    explanation: Optional[str]\nclass AnalyticsAIRequest(BaseModel):\n    query: str",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AnomalyDetectionResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]\n    severity_level: Optional[str]\n    explanation: Optional[str]\nclass AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AnalyticsAIRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]]\n    insights: Optional[List[str]]\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AnalyticsAIResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]]\n    insights: Optional[List[str]]\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AIMemoryEntry",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str\nclass AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str]\nclass AIChatResponse(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AISafetyMeta",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str]\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta]\n    sources: Optional[List[str]]\n    confidence_score: Optional[float]\n    timestamp: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AIChatResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta]\n    sources: Optional[List[str]]\n    confidence_score: Optional[float]\n    timestamp: Optional[str]\nclass AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AIStreamChunk",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
-        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
         "peekOfCode": "class AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
-        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentStatus",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentStatus(str, Enum):\n    scheduled = \"scheduled\"\n    confirmed = \"confirmed\"\n    completed = \"completed\"\n    cancelled = \"cancelled\"\n    no_show = \"no_show\"\n    rescheduled = \"rescheduled\"\nclass AppointmentType(str, Enum):\n    consultation = \"consultation\"\n    follow_up = \"follow_up\"",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentType",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentType(str, Enum):\n    consultation = \"consultation\"\n    follow_up = \"follow_up\"\n    emergency = \"emergency\"\n    telemedicine = \"telemedicine\"\nclass PaymentStatus(str, Enum):\n    pending = \"pending\"\n    paid = \"paid\"\n    refunded = \"refunded\"\nclass AppointmentBase(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "PaymentStatus",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class PaymentStatus(str, Enum):\n    pending = \"pending\"\n    paid = \"paid\"\n    refunded = \"refunded\"\nclass AppointmentBase(BaseModel):\n    patient_id: int\n    doctor_id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    reason: Optional[str] = Field(None, max_length=500)",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentBase",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentBase(BaseModel):\n    patient_id: int\n    doctor_id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    reason: Optional[str] = Field(None, max_length=500)\n    notes: Optional[str] = None\nclass AppointmentCreate(AppointmentBase):\n    pass\nclass AppointmentUpdate(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentCreate",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentCreate(AppointmentBase):\n    pass\nclass AppointmentUpdate(BaseModel):\n    appointment_date: Optional[datetime]\n    appointment_type: Optional[AppointmentType]\n    status: Optional[AppointmentStatus]\n    reason: Optional[str]\n    notes: Optional[str]\nclass AppointmentResponse(AppointmentBase):\n    id: int",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentUpdate",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentUpdate(BaseModel):\n    appointment_date: Optional[datetime]\n    appointment_type: Optional[AppointmentType]\n    status: Optional[AppointmentStatus]\n    reason: Optional[str]\n    notes: Optional[str]\nclass AppointmentResponse(AppointmentBase):\n    id: int\n    status: AppointmentStatus\n    payment_status: PaymentStatus",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentResponse(AppointmentBase):\n    id: int\n    status: AppointmentStatus\n    payment_status: PaymentStatus\n    created_at: datetime\n    updated_at: Optional[datetime]\n    class Config:\n        orm_mode = True\nclass AppointmentDetail(BaseModel):\n    id: int",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentDetail",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentDetail(BaseModel):\n    id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    status: AppointmentStatus\n    reason: Optional[str]\n    notes: Optional[str]\n    patient_name: str\n    doctor_name: str\n    department: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentFilter",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentFilter(BaseModel):\n    doctor_id: Optional[int]\n    patient_id: Optional[int]\n    status: Optional[AppointmentStatus]\n    start_date: Optional[datetime]\n    end_date: Optional[datetime]\nclass AppointmentAIContext(BaseModel):\n    appointment_id: int\n    patient_id: int\n    doctor_id: int",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentAIContext",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentAIContext(BaseModel):\n    appointment_id: int\n    patient_id: int\n    doctor_id: int\n    symptoms: Optional[str]\n    previous_history: Optional[str]\nclass AppointmentPatientView(BaseModel):\n    id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "AppointmentPatientView",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
-        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "importPath": "BACKENED.app.schemas.appointment_schema",
+        "description": "BACKENED.app.schemas.appointment_schema",
         "peekOfCode": "class AppointmentPatientView(BaseModel):\n    id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    status: AppointmentStatus\n    doctor_name: str\n    class Config:\n        orm_mode = True",
-        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "detail": "BACKENED.app.schemas.appointment_schema",
         "documentation": {}
     },
     {
         "label": "UserRole",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class UserRole(str, Enum):\n    patient = \"patient\"\n    doctor = \"doctor\"\n    admin = \"admin\"\nclass UserBase(BaseModel):\n    email: EmailStr\n    full_name: str = Field(..., min_length=2, max_length=100)\n    role: UserRole\nclass UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=128)",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "UserBase",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\n    full_name: str = Field(..., min_length=2, max_length=100)\n    role: UserRole\nclass UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=128)\n    @validator(\"password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "UserRegister",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=128)\n    @validator(\"password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")\n        if not any(char.isupper() for char in v):\n            raise ValueError(\"Password must contain at least one uppercase letter\")\n        return v\nclass UserLogin(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "UserLogin",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass Token(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass TokenPayload(BaseModel):\n    user_id: int\n    email: EmailStr",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "Token",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass TokenPayload(BaseModel):\n    user_id: int\n    email: EmailStr\n    role: UserRole\n    exp: Optional[int] = None\nclass RefreshTokenRequest(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "TokenPayload",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class TokenPayload(BaseModel):\n    user_id: int\n    email: EmailStr\n    role: UserRole\n    exp: Optional[int] = None\nclass RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass AuthResponse(BaseModel):\n    user_id: int\n    email: EmailStr",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "RefreshTokenRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass AuthResponse(BaseModel):\n    user_id: int\n    email: EmailStr\n    full_name: str\n    role: UserRole\n    access_token: str\n    refresh_token: str\n    class Config:",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "AuthResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class AuthResponse(BaseModel):\n    user_id: int\n    email: EmailStr\n    full_name: str\n    role: UserRole\n    access_token: str\n    refresh_token: str\n    class Config:\n        orm_mode = True\nclass UserResponse(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "UserResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    email: EmailStr\n    full_name: str\n    role: UserRole\n    created_at: datetime\n    class Config:\n        orm_mode = True\nclass PasswordResetRequest(BaseModel):\n    email: EmailStr",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "PasswordResetRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class PasswordResetRequest(BaseModel):\n    email: EmailStr\nclass PasswordResetConfirm(BaseModel):\n    reset_token: str\n    new_password: str = Field(..., min_length=8)\n    @validator(\"new_password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")\n        if not any(char.isupper() for char in v):",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "PasswordResetConfirm",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class PasswordResetConfirm(BaseModel):\n    reset_token: str\n    new_password: str = Field(..., min_length=8)\n    @validator(\"new_password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")\n        if not any(char.isupper() for char in v):\n            raise ValueError(\"Password must contain at least one uppercase letter\")\n        return v",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "ChangePasswordRequest",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class ChangePasswordRequest(BaseModel):\n    current_password: str\n    new_password: str = Field(..., min_length=8)\nclass StaffRegister(UserRegister):\n    staff_id: str\n    department: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "StaffRegister",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
-        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "importPath": "BACKENED.app.schemas.auth_schema",
+        "description": "BACKENED.app.schemas.auth_schema",
         "peekOfCode": "class StaffRegister(UserRegister):\n    staff_id: str\n    department: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "detail": "BACKENED.app.schemas.auth_schema",
         "documentation": {}
     },
     {
         "label": "DoctorStatus",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorStatus(str, Enum):\n    active = \"active\"\n    inactive = \"inactive\"\n    on_leave = \"on_leave\"\nclass ConsultationMode(str, Enum):\n    in_person = \"in_person\"\n    telemedicine = \"telemedicine\"\n    both = \"both\"\nclass DoctorBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "ConsultationMode",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class ConsultationMode(str, Enum):\n    in_person = \"in_person\"\n    telemedicine = \"telemedicine\"\n    both = \"both\"\nclass DoctorBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: EmailStr\n    phone: Optional[str]\n    specialization: str = Field(..., max_length=100)\n    department: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorBase",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: EmailStr\n    phone: Optional[str]\n    specialization: str = Field(..., max_length=100)\n    department: Optional[str]\n    experience_years: Optional[int] = Field(None, ge=0, le=60)\n    consultation_fee: Optional[float] = Field(None, ge=0)\n    consultation_mode: ConsultationMode = ConsultationMode.in_person\nclass DoctorCreate(DoctorBase):",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorCreate",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorCreate(DoctorBase):\n    license_number: str = Field(..., max_length=50)\nclass DoctorUpdate(BaseModel):\n    full_name: Optional[str]\n    phone: Optional[str]\n    specialization: Optional[str]\n    department: Optional[str]\n    experience_years: Optional[int]\n    consultation_fee: Optional[float]\n    consultation_mode: Optional[ConsultationMode]",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorUpdate",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorUpdate(BaseModel):\n    full_name: Optional[str]\n    phone: Optional[str]\n    specialization: Optional[str]\n    department: Optional[str]\n    experience_years: Optional[int]\n    consultation_fee: Optional[float]\n    consultation_mode: Optional[ConsultationMode]\n    status: Optional[DoctorStatus]\nclass DoctorAvailability(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorAvailability",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorAvailability(BaseModel):\n    day_of_week: str  # e.g., Monday\n    start_time: time\n    end_time: time\nclass DoctorResponse(DoctorBase):\n    id: int\n    license_number: str\n    status: DoctorStatus\n    created_at: datetime\n    updated_at: Optional[datetime]",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorResponse(DoctorBase):\n    id: int\n    license_number: str\n    status: DoctorStatus\n    created_at: datetime\n    updated_at: Optional[datetime]\n    class Config:\n        orm_mode = True\nclass DoctorPublicView(BaseModel):\n    id: int",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorPublicView",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorPublicView(BaseModel):\n    id: int\n    full_name: str\n    specialization: str\n    department: Optional[str]\n    experience_years: Optional[int]\n    consultation_fee: Optional[float]\n    consultation_mode: ConsultationMode\n    class Config:\n        orm_mode = True",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorFilter",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorFilter(BaseModel):\n    specialization: Optional[str]\n    department: Optional[str]\n    consultation_mode: Optional[ConsultationMode]\n    status: Optional[DoctorStatus]\n    min_experience: Optional[int]\n    max_fee: Optional[float]\nclass DoctorStats(BaseModel):\n    doctor_id: int\n    total_appointments: int",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorStats",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorStats(BaseModel):\n    doctor_id: int\n    total_appointments: int\n    completed_appointments: int\n    cancelled_appointments: int\n    average_rating: Optional[float]\nclass DoctorAIContext(BaseModel):\n    doctor_id: int\n    specialization: str\n    recent_cases_summary: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorAIContext",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorAIContext(BaseModel):\n    doctor_id: int\n    specialization: str\n    recent_cases_summary: Optional[str]\n    average_consultation_time: Optional[int]\nfrom pydantic import validator\nclass DoctorAvailability(BaseModel):\n    day_of_week: str\n    start_time: time\n    end_time: time",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "DoctorAvailability",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
-        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "importPath": "BACKENED.app.schemas.doctor_schema",
+        "description": "BACKENED.app.schemas.doctor_schema",
         "peekOfCode": "class DoctorAvailability(BaseModel):\n    day_of_week: str\n    start_time: time\n    end_time: time\n    @validator(\"end_time\")\n    def validate_time(cls, v, values):\n        if \"start_time\" in values and v <= values[\"start_time\"]:\n            raise ValueError(\"End time must be after start time\")\n        return v",
-        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "detail": "BACKENED.app.schemas.doctor_schema",
         "documentation": {}
     },
     {
         "label": "Gender",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class Gender(str, Enum):\n    male = \"male\"\n    female = \"female\"\n    other = \"other\"\nclass BloodGroup(str, Enum):\n    A_pos = \"A+\"\n    A_neg = \"A-\"\n    B_pos = \"B+\"\n    B_neg = \"B-\"\n    AB_pos = \"AB+\"",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "BloodGroup",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class BloodGroup(str, Enum):\n    A_pos = \"A+\"\n    A_neg = \"A-\"\n    B_pos = \"B+\"\n    B_neg = \"B-\"\n    AB_pos = \"AB+\"\n    AB_neg = \"AB-\"\n    O_pos = \"O+\"\n    O_neg = \"O-\"\nclass MaritalStatus(str, Enum):",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "MaritalStatus",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class MaritalStatus(str, Enum):\n    single = \"single\"\n    married = \"married\"\n    divorced = \"divorced\"\n    widowed = \"widowed\"\nclass PatientBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: date",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientBase",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: date\n    gender: Gender\n    blood_group: Optional[BloodGroup]\n    marital_status: Optional[MaritalStatus]\n    address: Optional[str]\nclass PatientCreate(PatientBase):",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientCreate",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientCreate(PatientBase):\n    emergency_contact_name: Optional[str]\n    emergency_contact_phone: Optional[str]\n    insurance_provider: Optional[str]\n    insurance_number: Optional[str]\nclass PatientUpdate(BaseModel):\n    full_name: Optional[str]\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: Optional[date]",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientUpdate",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientUpdate(BaseModel):\n    full_name: Optional[str]\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: Optional[date]\n    gender: Optional[Gender]\n    blood_group: Optional[BloodGroup]\n    marital_status: Optional[MaritalStatus]\n    address: Optional[str]\n    emergency_contact_name: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "MedicalHistory",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class MedicalHistory(BaseModel):\n    allergies: Optional[List[str]]\n    chronic_diseases: Optional[List[str]]\n    past_surgeries: Optional[List[str]]\n    current_medications: Optional[List[str]]\n    family_history: Optional[List[str]]\nclass PatientResponse(PatientBase):\n    id: int\n    emergency_contact_name: Optional[str]\n    emergency_contact_phone: Optional[str]",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientResponse",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientResponse(PatientBase):\n    id: int\n    emergency_contact_name: Optional[str]\n    emergency_contact_phone: Optional[str]\n    insurance_provider: Optional[str]\n    insurance_number: Optional[str]\n    created_at: datetime\n    updated_at: Optional[datetime]\n    class Config:\n        orm_mode = True",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientPublicView",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientPublicView(BaseModel):\n    id: int\n    full_name: str\n    date_of_birth: date\n    gender: Gender\n    blood_group: Optional[BloodGroup]\n    allergies: Optional[List[str]]\n    class Config:\n        orm_mode = True\nclass PatientFilter(BaseModel):",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientFilter",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientFilter(BaseModel):\n    gender: Optional[Gender]\n    blood_group: Optional[BloodGroup]\n    min_age: Optional[int]\n    max_age: Optional[int]\n    chronic_disease: Optional[str]\nclass PatientStats(BaseModel):\n    total_appointments: int\n    completed_appointments: int\n    cancelled_appointments: int",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientStats",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientStats(BaseModel):\n    total_appointments: int\n    completed_appointments: int\n    cancelled_appointments: int\n    total_bills: Optional[float]\n    outstanding_balance: Optional[float]\nclass PatientAIContext(BaseModel):\n    patient_id: int\n    age: int\n    gender: Gender",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "PatientAIContext",
         "kind": 6,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "class PatientAIContext(BaseModel):\n    patient_id: int\n    age: int\n    gender: Gender\n    blood_group: Optional[BloodGroup]\n    chronic_conditions: Optional[List[str]]\n    allergies: Optional[List[str]]\n    recent_reports_summary: Optional[str]\n    patient_id: int\n    accessed_by: int",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
         "documentation": {}
     },
     {
         "label": "validate_age",
         "kind": 2,
-        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
-        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "importPath": "BACKENED.app.schemas.patient_schema",
+        "description": "BACKENED.app.schemas.patient_schema",
         "peekOfCode": "def validate_age(cls, v):\n    if v > date.today():\n        raise ValueError(\"Date of birth cannot be in the future\")\n    return v",
-        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "detail": "BACKENED.app.schemas.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.hash",
+        "description": "BACKENED.app.utils.hash",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    \"\"\"\n    Hash a plain text password using bcrypt.\n    \"\"\"\n    return pwd_context.hash(password)\n# ==========================================\n# ✅ VERIFY PASSWORD\n# ==========================================\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"",
+        "detail": "BACKENED.app.utils.hash",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.hash",
+        "description": "BACKENED.app.utils.hash",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"\n    Verify if plain password matches hashed password.\n    \"\"\"\n    return pwd_context.verify(plain_password, hashed_password)\n# ==========================================\n# 🔄 OPTIONAL: REHASH CHECK\n# ==========================================\ndef needs_rehash(hashed_password: str) -> bool:\n    \"\"\"",
+        "detail": "BACKENED.app.utils.hash",
+        "documentation": {}
+    },
+    {
+        "label": "needs_rehash",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.hash",
+        "description": "BACKENED.app.utils.hash",
+        "peekOfCode": "def needs_rehash(hashed_password: str) -> bool:\n    \"\"\"\n    Check if password needs rehash (e.g., algorithm upgrade).\n    \"\"\"\n    return pwd_context.needs_update(hashed_password)",
+        "detail": "BACKENED.app.utils.hash",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "BACKENED.app.utils.hash",
+        "description": "BACKENED.app.utils.hash",
+        "peekOfCode": "pwd_context = CryptContext(\n    schemes=[\"bcrypt\"],\n    deprecated=\"auto\"\n)\n# ==========================================\n# 🔑 HASH PASSWORD\n# ==========================================\ndef hash_password(password: str) -> str:\n    \"\"\"\n    Hash a plain text password using bcrypt.",
+        "detail": "BACKENED.app.utils.hash",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "def create_access_token(data: Dict[str, Any]) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\n        \"exp\": expire,\n        \"type\": \"access\"\n    })\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n# ==========================================\n# 🔄 CREATE REFRESH TOKEN",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "def create_refresh_token(data: Dict[str, Any]) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(days=REFRESH_TOKEN_EXPIRE_DAYS)\n    to_encode.update({\n        \"exp\": expire,\n        \"type\": \"refresh\"\n    })\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n# ==========================================\n# ✅ VERIFY TOKEN",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "def verify_token(token: str, token_type: Optional[str] = None) -> Dict[str, Any]:\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        if token_type and payload.get(\"type\") != token_type:\n            raise JWTError(\"Invalid token type\")\n        return payload\n    except JWTError:\n        return None\n# ==========================================\n# 🔁 REFRESH ACCESS TOKEN",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_access_token",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "def refresh_access_token(refresh_token: str) -> Optional[str]:\n    payload = verify_token(refresh_token, token_type=\"refresh\")\n    if not payload:\n        return None\n    new_access_token = create_access_token({\n        \"user_id\": payload[\"user_id\"],\n        \"email\": payload[\"email\"],\n        \"role\": payload[\"role\"]\n    })\n    return new_access_token",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "SECRET_KEY = settings.JWT_SECRET_KEY\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\nREFRESH_TOKEN_EXPIRE_DAYS = 7\n# ==========================================\n# 🪪 CREATE ACCESS TOKEN\n# ==========================================\ndef create_access_token(data: Dict[str, Any]) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\nREFRESH_TOKEN_EXPIRE_DAYS = 7\n# ==========================================\n# 🪪 CREATE ACCESS TOKEN\n# ==========================================\ndef create_access_token(data: Dict[str, Any]) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\nREFRESH_TOKEN_EXPIRE_DAYS = 7\n# ==========================================\n# 🪪 CREATE ACCESS TOKEN\n# ==========================================\ndef create_access_token(data: Dict[str, Any]) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\n        \"exp\": expire,",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "REFRESH_TOKEN_EXPIRE_DAYS",
+        "kind": 5,
+        "importPath": "BACKENED.app.utils.jwt_handler",
+        "description": "BACKENED.app.utils.jwt_handler",
+        "peekOfCode": "REFRESH_TOKEN_EXPIRE_DAYS = 7\n# ==========================================\n# 🪪 CREATE ACCESS TOKEN\n# ==========================================\ndef create_access_token(data: Dict[str, Any]) -> str:\n    to_encode = data.copy()\n    expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\n        \"exp\": expire,\n        \"type\": \"access\"",
+        "detail": "BACKENED.app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "BACKENED.app.utils.logger",
+        "description": "BACKENED.app.utils.logger",
+        "peekOfCode": "def get_logger(name: str) -> logging.Logger:\n    \"\"\"\n    Create and return a configured logger.\n    \"\"\"\n    logger = logging.getLogger(name)\n    logger.setLevel(logging.INFO)\n    if logger.handlers:\n        return logger  # Prevent duplicate handlers\n    # Log format\n    formatter = logging.Formatter(",
+        "detail": "BACKENED.app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_DIR",
+        "kind": 5,
+        "importPath": "BACKENED.app.utils.logger",
+        "description": "BACKENED.app.utils.logger",
+        "peekOfCode": "LOG_DIR = \"logs\"\nif not os.path.exists(LOG_DIR):\n    os.makedirs(LOG_DIR)\n# ==========================================\n# ⚙️ LOGGER CONFIGURATION\n# ==========================================\ndef get_logger(name: str) -> logging.Logger:\n    \"\"\"\n    Create and return a configured logger.\n    \"\"\"",
+        "detail": "BACKENED.app.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_logger",
+        "kind": 2,
+        "importPath": "BACKENED.app.config",
+        "description": "BACKENED.app.config",
+        "peekOfCode": "def get_logger(name: str) -> logging.Logger:\n    \"\"\"\n    Create and return a configured logger.\n    \"\"\"\n    logger = logging.getLogger(name)\n    logger.setLevel(logging.INFO)\n    if logger.handlers:\n        return logger  # Prevent duplicate handlers\n    # Log format\n    formatter = logging.Formatter(",
+        "detail": "BACKENED.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_DIR",
+        "kind": 5,
+        "importPath": "BACKENED.app.config",
+        "description": "BACKENED.app.config",
+        "peekOfCode": "LOG_DIR = \"logs\"\nif not os.path.exists(LOG_DIR):\n    os.makedirs(LOG_DIR)\n# ==========================================\n# ⚙️ LOGGER CONFIGURATION\n# ==========================================\ndef get_logger(name: str) -> logging.Logger:\n    \"\"\"\n    Create and return a configured logger.\n    \"\"\"",
+        "detail": "BACKENED.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "connect_to_database",
+        "kind": 2,
+        "importPath": "BACKENED.app.database",
+        "description": "BACKENED.app.database",
+        "peekOfCode": "def connect_to_database():\n    global client, db\n    try:\n        client = MongoClient(settings.MONGO_URI)\n        db = client[settings.DATABASE_NAME]\n        # Test connection\n        client.admin.command(\"ping\")\n        logger.info(\"✅ MongoDB connected successfully\")\n        create_indexes()\n    except ConnectionFailure as e:",
+        "detail": "BACKENED.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "close_database_connection",
+        "kind": 2,
+        "importPath": "BACKENED.app.database",
+        "description": "BACKENED.app.database",
+        "peekOfCode": "def close_database_connection():\n    global client\n    if client:\n        client.close()\n        logger.info(\"🔒 MongoDB connection closed\")\n# ==========================================\n# 📊 CREATE INDEXES (IMPORTANT FOR PROD)\n# ==========================================\ndef create_indexes():\n    \"\"\"",
+        "detail": "BACKENED.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_indexes",
+        "kind": 2,
+        "importPath": "BACKENED.app.database",
+        "description": "BACKENED.app.database",
+        "peekOfCode": "def create_indexes():\n    \"\"\"\n    Create important indexes for performance.\n    \"\"\"\n    # Patients\n    db.patients.create_index(\"email\", unique=True)\n    db.patients.create_index(\"full_name\")\n    # Doctors\n    db.doctors.create_index(\"email\", unique=True)\n    db.doctors.create_index(\"specialization\")",
+        "detail": "BACKENED.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "check_database_health",
+        "kind": 2,
+        "importPath": "BACKENED.app.database",
+        "description": "BACKENED.app.database",
+        "peekOfCode": "def check_database_health() -> bool:\n    try:\n        client.admin.command(\"ping\")\n        return True\n    except Exception:\n        return False",
+        "detail": "BACKENED.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "BACKENED.app.database",
+        "description": "BACKENED.app.database",
+        "peekOfCode": "logger = get_logger(__name__)\n# ==========================================\n# 🌐 CREATE MONGO CLIENT\n# ==========================================\nclient: Optional[MongoClient] = None\ndb = None\ndef connect_to_database():\n    global client, db\n    try:\n        client = MongoClient(settings.MONGO_URI)",
+        "detail": "BACKENED.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "BACKENED.app.database",
+        "description": "BACKENED.app.database",
+        "peekOfCode": "db = None\ndef connect_to_database():\n    global client, db\n    try:\n        client = MongoClient(settings.MONGO_URI)\n        db = client[settings.DATABASE_NAME]\n        # Test connection\n        client.admin.command(\"ping\")\n        logger.info(\"✅ MongoDB connected successfully\")\n        create_indexes()",
+        "detail": "BACKENED.app.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "BACKENED.app.main",
+        "description": "BACKENED.app.main",
+        "peekOfCode": "app = FastAPI(\n    title=settings.APP_NAME,\n    version=settings.APP_VERSION,\n    debug=settings.DEBUG,\n)\nlogger = get_logger(\"main\")\n# ==========================================\n# 🌐 CORS MIDDLEWARE\n# ==========================================\napp.add_middleware(",
+        "detail": "BACKENED.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "BACKENED.app.main",
+        "description": "BACKENED.app.main",
+        "peekOfCode": "logger = get_logger(\"main\")\n# ==========================================\n# 🌐 CORS MIDDLEWARE\n# ==========================================\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=settings.ALLOWED_ORIGINS,\n    allow_credentials=True,\n    allow_methods=settings.ALLOWED_METHODS,\n    allow_headers=settings.ALLOWED_HEADERS,",
+        "detail": "BACKENED.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "BACKENED.run",
+        "description": "BACKENED.run",
+        "peekOfCode": "def main():\n    \"\"\"\n    Entry point to run FastAPI application.\n    \"\"\"\n    uvicorn.run(\n        \"main:app\",\n        host=\"0.0.0.0\",\n        port=8000,\n        reload=settings.DEBUG,\n        log_level=\"info\",",
+        "detail": "BACKENED.run",
         "documentation": {}
     },
     {
