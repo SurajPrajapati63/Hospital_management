@@ -5,8 +5,6 @@
 .env.local
 .env.*.local
 *.env
-.env.example.bak
-.venv.example
 
 # ======================
 # PYTHON
@@ -15,23 +13,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
 
 # ======================
 # VIRTUAL ENV
@@ -39,36 +20,24 @@ wheels/
 .venv/
 venv/
 env/
-ENV/
-.env/
+
+# ======================
+# STREAMLIT
+# ======================
+.streamlit/
+.streamlit/*.json
+.streamlit/*.toml
 
 # ======================
 # LOGS
 # ======================
 logs/
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# ======================
-# DATABASE
-# ======================
-*.sqlite3
-*.db
-*.sqlite
-hospital.db
-.mongodb/
 
 # ======================
 # OS FILES
 # ======================
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
 # ======================
@@ -79,21 +48,13 @@ Thumbs.db
 *.swp
 *.swo
 *~
-*.sublime-project
-*.sublime-workspace
 
 # ======================
-# TESTING
+# NODE (if using)
 # ======================
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
-
-# ======================
-# STREAMLIT
-# ======================
-.streamlit/
+node_modules/
+package-lock.json
+yarn.lock
 
 # ======================
 # MISC
@@ -101,4 +62,3 @@ htmlcov/
 *.pem
 *.key
 secrets/
-.DS_Store

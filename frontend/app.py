@@ -1,86 +1,109 @@
-from fastapi import FastAPI, Depends, HTTPException, status
-from fastapi.middleware.cors import CORSMiddleware
-from fastapi.security import OAuth2PasswordBearer
-from app.database import connect_db, close_db
-from app.components.Login import decode_access_token
-from app.routers import (
-    patients_api,
-    doctors_api,
-    appointments_api,
-    prescriptions_api,
-    billing_api,
-    analytics_api,
-    ai_api,
-    chat_api,
-    auth_api
+import streamlit as st
+import sys
+from pathlib import Path
+
+# ----------------------------
+# Page Configuration
+# ----------------------------
+st.set_page_config(
+    page_title="Hospital Management System",
+    page_icon="🏥",
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 # ----------------------------
-# FastAPI App
+# Configure Session State
 # ----------------------------
-app = FastAPI(
-    title="Hospital Management System",
-    description="Complete backend API for hospital management with AI assistant, analytics, and JWT authentication",
-    version="1.0.0"
-)
+if "user" not in st.session_state:
+    st.session_state.user = None
+
+if "access_token" not in st.session_state:
+    st.session_state.access_token = None
+
+if "refresh_token" not in st.session_state:
+    st.session_state.refresh_token = None
 
 # ----------------------------
-# CORS Middleware
+# Sidebar Navigation
 # ----------------------------
-origins = ["*"]  # You can restrict to frontend URL
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"]
-)
+with st.sidebar:
+    st.title("🏥 Hospital Management System")
+    
+    if st.session_state.user:
+        st.success(f"Logged in as: {st.session_state.user.get('full_name', 'Unknown')}")
+        st.write(f"Role: {st.session_state.user.get('role', 'Unknown')}")
+        
+        if st.button("Logout", use_container_width=True):
+            st.session_state.user = None
+            st.session_state.access_token = None
+            st.session_state.refresh_token = None
+            st.rerun()
+        
+        st.divider()
+        
+        page = st.radio("Navigation", [
+            "📊 Dashboard",
+            "👥 Patients",
+            "👨‍⚕️ Doctors",
+            "📅 Appointments",
+            "💊 Prescriptions",
+            "💳 Billing",
+            "🤖 AI Assistant",
+            "📈 Analytics"
+        ])
+    else:
+        st.warning("Please log in to continue")
+        page = "🔐 Login"
 
 # ----------------------------
-# Startup and Shutdown Events
+# Main Content Area
 # ----------------------------
-@app.on_event("startup")
-async def startup_db():
-    await connect_db()
-    print("MongoDB connected!")
+if page == "🔐 Login":
+    st.title("Hospital Management System - Login")
+    st.write("Please enter your credentials to login")
+    
+    email = st.text_input("Email")
+    password = st.text_input("Password", type="password")
+    
+    if st.button("Login", use_container_width=True):
+        if email and password:
+            st.info("Login functionality integration pending...")
+        else:
+            st.error("Please enter email and password")
 
-@app.on_event("shutdown")
-async def shutdown_db():
-    await close_db()
-    print("MongoDB disconnected!")
+elif not st.session_state.user:
+    st.warning("Please log in to access this page")
 
-# ----------------------------
-# JWT Dependency
-# ----------------------------
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="auth/login")
-
-async def get_current_user(token: str = Depends(oauth2_scheme)):
-    try:
-        payload = decode_access_token(token)
-        return payload
-    except Exception:
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Invalid authentication credentials",
-            headers={"WWW-Authenticate": "Bearer"},
-        )
-
-# ----------------------------
-# Include Routers
-# ----------------------------
-app.include_router(auth_api.router, prefix="/auth", tags=["Authentication"])
-app.include_router(patients_api.router, prefix="/patients", tags=["Patients"])
-app.include_router(doctors_api.router, prefix="/doctors", tags=["Doctors"])
-app.include_router(appointments_api.router, prefix="/appointments", tags=["Appointments"])
-app.include_router(prescriptions_api.router, prefix="/prescriptions", tags=["Prescriptions"])
-app.include_router(billing_api.router, prefix="/billing", tags=["Billing"])
-app.include_router(analytics_api.router, prefix="/analytics", tags=["Analytics"])
-app.include_router(ai_api.router, prefix="/ai", tags=["AI Assistant"])
-app.include_router(chat_api.router, prefix="/chat", tags=["Chat"])
-
-# ----------------------------
-# Root Endpoint
-# ----------------------------
-@app.get("/")
-async def root():
-    return {"message": "Welcome to Hospital Management System API"}
+else:
+    if page == "📊 Dashboard":
+        st.title("Dashboard")
+        st.write("Dashboard content coming soon...")
+    
+    elif page == "👥 Patients":
+        st.title("Patients Management")
+        st.write("Patients management content coming soon...")
+    
+    elif page == "👨‍⚕️ Doctors":
+        st.title("Doctors Management")
+        st.write("Doctors management content coming soon...")
+    
+    elif page == "📅 Appointments":
+        st.title("Appointments")
+        st.write("Appointments content coming soon...")
+    
+    elif page == "💊 Prescriptions":
+        st.title("Prescriptions")
+        st.write("Prescriptions content coming soon...")
+    
+    elif page == "💳 Billing":
+        st.title("Billing")
+        st.write("Billing content coming soon...")
+    
+    elif page == "🤖 AI Assistant":
+        st.title("AI Medical Assistant")
+        st.write("AI Assistant content coming soon...")
+    
+    elif page == "📈 Analytics":
+        st.title("Analytics")
+        st.write("Analytics content coming soon...")

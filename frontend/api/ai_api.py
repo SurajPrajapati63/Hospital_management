@@ -1,61 +1,135 @@
+"""
+AI API Client Module
+Handles all frontend HTTP requests to AI backend endpoints
+"""
 
-from fastapi import APIRouter
-from pydantic import BaseModel
-from typing import List, Optional
+import requests
+from typing import Dict, List, Any, Optional
 
-# ----------------------------
-# Router
-# ----------------------------
-router = APIRouter()
+# Backend API base URL
+BASE_URL = "http://localhost:8000/api"
+AI_ENDPOINT = f"{BASE_URL}/ai"
 
-# ----------------------------
-# Pydantic Model for Request
-# ----------------------------
-class SymptomsRequest(BaseModel):
-    symptoms: List[str]   # List of symptoms
-    age: Optional[int] = None
-    gender: Optional[str] = None
 
-# ----------------------------
-# Pydantic Model for Response
-# ----------------------------
-class PredictionResponse(BaseModel):
-    probable_disease: str
-    confidence: float
-    recommended_action: str
+class AIAPIClient:
+    """HTTP client for AI-related operations"""
 
-# ----------------------------
-# Dummy AI Model Function
-# ----------------------------
-def predict_disease(symptoms: List[str], age: Optional[int], gender: Optional[str]):
-    """
-    This is a placeholder AI function.
-    Replace it with your real ML/DL model or API call.
-    """
-    # Example logic: very simple keyword matching
-    if "fever" in symptoms and "cough" in symptoms:
-        return {
-            "probable_disease": "Flu",
-            "confidence": 0.85,
-            "recommended_action": "Take rest, drink fluids, and consult a doctor if severe."
-        }
-    elif "headache" in symptoms:
-        return {
-            "probable_disease": "Migraine",
-            "confidence": 0.75,
-            "recommended_action": "Avoid bright lights, rest, and take prescribed medication."
-        }
-    else:
-        return {
-            "probable_disease": "Unknown",
-            "confidence": 0.50,
-            "recommended_action": "Consult a doctor for proper diagnosis."
-        }
+    @staticmethod
+    def predict_disease(symptoms: List[str], age: Optional[int] = None, gender: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        """Predict disease based on symptoms"""
+        try:
+            response = requests.post(
+                f"{AI_ENDPOINT}/predict",
+                json={"symptoms": symptoms, "age": age, "gender": gender},
+                headers={"Content-Type": "application/json"}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error predicting disease: {str(e)}")
+            return None
 
-# ----------------------------
-# API Route
-# ----------------------------
-@router.post("/predict", response_model=PredictionResponse)
-async def ai_predict(request: SymptomsRequest):
-    prediction = predict_disease(request.symptoms, request.age, request.gender)
-    return prediction
+    @staticmethod
+    def get_medical_recommendation(patient_id: str, condition: str) -> Optional[Dict[str, Any]]:
+        """Get AI medical recommendations for a patient"""
+        try:
+            response = requests.post(
+                f"{AI_ENDPOINT}/recommendation",
+                json={"patient_id": patient_id, "condition": condition},
+                headers={"Content-Type": "application/json"}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error getting recommendation: {str(e)}")
+            return None
+
+    @staticmethod
+    def analyze_report(report_content: str) -> Optional[Dict[str, Any]]:
+        """Analyze and summarize medical report"""
+        try:
+            response = requests.post(
+                f"{AI_ENDPOINT}/analyze-report",
+                json={"content": report_content},
+                headers={"Content-Type": "application/json"}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error analyzing report: {str(e)}")
+            return None
+
+    @staticmethod
+    def detect_anomaly(patient_id: str) -> Optional[Dict[str, Any]]:
+        """Detect anomalies in patient health data"""
+        try:
+            response = requests.get(
+                f"{AI_ENDPOINT}/anomaly/{patient_id}",
+                headers={"Content-Type": "application/json"}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error detecting anomaly: {str(e)}")
+            return None
+
+    @staticmethod
+    def chat_medical_assistant(message: str, patient_context: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        """Chat with AI medical assistant"""
+        try:
+            response = requests.post(
+                f"{AI_ENDPOINT}/chat",
+                json={"message": message, "patient_context": patient_context},
+                headers={"Content-Type": "application/json"}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error in medical assistant chat: {str(e)}")
+            return None
+
+    @staticmethod
+    def generate_prescription_suggestion(symptoms: List[str], condition: str) -> Optional[Dict[str, Any]]:
+        """Generate AI-suggested prescription based on symptoms"""
+        try:
+            response = requests.post(
+                f"{AI_ENDPOINT}/prescription",
+                json={"symptoms": symptoms, "condition": condition},
+                headers={"Content-Type": "application/json"}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error generating prescription suggestion: {str(e)}")
+            return None
+
+
+# Convenience functions for direct use
+def predict_disease(symptoms: List[str], age: Optional[int] = None, gender: Optional[str] = None) -> Optional[Dict[str, Any]]:
+    """Predict disease based on symptoms"""
+    return AIAPIClient.predict_disease(symptoms, age, gender)
+
+
+def get_medical_recommendation(patient_id: str, condition: str) -> Optional[Dict[str, Any]]:
+    """Get AI medical recommendations for a patient"""
+    return AIAPIClient.get_medical_recommendation(patient_id, condition)
+
+
+def analyze_report(report_content: str) -> Optional[Dict[str, Any]]:
+    """Analyze and summarize medical report"""
+    return AIAPIClient.analyze_report(report_content)
+
+
+def detect_anomaly(patient_id: str) -> Optional[Dict[str, Any]]:
+    """Detect anomalies in patient health data"""
+    return AIAPIClient.detect_anomaly(patient_id)
+
+
+def chat_medical_assistant(message: str, patient_context: Optional[str] = None) -> Optional[Dict[str, Any]]:
+    """Chat with AI medical assistant"""
+    return AIAPIClient.chat_medical_assistant(message, patient_context)
+
+
+def generate_prescription_suggestion(symptoms: List[str], condition: str) -> Optional[Dict[str, Any]]:
+    """Generate AI-suggested prescription based on symptoms"""
+    return AIAPIClient.generate_prescription_suggestion(symptoms, condition)

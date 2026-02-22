@@ -1,93 +1,83 @@
-
-from fastapi import APIRouter, HTTPException, Depends
-from fastapi.security import OAuth2PasswordRequestForm
-from passlib.context import CryptContext
-from typing import Optional
-from datetime import datetime, timedelta
-import jwt
-
-from app.models.user_model import User
-from app.database import user_collection  # MongoDB collection for users
+import requests
+from typing import Optional, Dict
+from config import BACKEND_URL, JWT_SECRET_KEY, JWT_ALGORITHM
 
 # ----------------------------
-# Router
+# Backend API Base URL
 # ----------------------------
-router = APIRouter()
-
-# ----------------------------
-# Security & JWT settings
-# ----------------------------
-pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
-SECRET_KEY = "your_super_secret_key"  # Change this in production
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60
-
+BASE_URL = BACKEND_URL or "http://localhost:8000"
 
 # ----------------------------
-# Helper Functions
+# Auth API Client
 # ----------------------------
-def hash_password(password: str):
-    return pwd_context.hash(password)
 
-def verify_password(plain_password: str, hashed_password: str):
-    return pwd_context.verify(plain_password, hashed_password)
-
-def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
-    to_encode = data.copy()
-    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))
-    to_encode.update({"exp": expire})
-    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
-    return encoded_jwt
-
-
-# ----------------------------
-# Register User
-# ----------------------------
-@router.post("/register", response_model=dict)
-async def register_user(user: User):
-    existing_user = await user_collection.find_one({"username": user.username})
-    if existing_user:
-        raise HTTPException(status_code=400, detail="Username already exists")
-    
-    hashed_password = hash_password(user.password)
-    user_dict = user.dict()
-    user_dict["password"] = hashed_password
-    
-    result = await user_collection.insert_one(user_dict)
-    return {"id": str(result.inserted_id), "message": "User registered successfully"}
-
-
-# ----------------------------
-# Login User
-# ----------------------------
-@router.post("/login", response_model=dict)
-async def login_user(form_data: OAuth2PasswordRequestForm = Depends()):
-    user = await user_collection.find_one({"username": form_data.username})
-    if not user or not verify_password(form_data.password, user["password"]):
-        raise HTTPException(status_code=401, detail="Invalid username or password")
-    
-    access_token = create_access_token(data={"sub": user["username"], "role": user["role"]})
-    return {"access_token": access_token, "token_type": "bearer", "role": user["role"]}
-
-
-# ----------------------------
-# Example Protected Route
-# ----------------------------
-from fastapi import Security
-from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
-
-security = HTTPBearer()
-
-def get_current_user(credentials: HTTPAuthorizationCredentials = Security(security)):
-    token = credentials.credentials
+def register_user(email: str, full_name: str, password: str, role: str) -> Optional[Dict]:
+    """Register a new user"""
     try:
-        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
-        username = payload.get("sub")
-        role = payload.get("role")
-        return {"username": username, "role": role}
-    except jwt.PyJWTError:
-        raise HTTPException(status_code=401, detail="Invalid token")
+        response = requests.post(
+            f"{BASE_URL}/auth/register",
+            json={
+                "email": email,
+                "full_name": full_name,
+                "password": password,
+                "role": role
+            }
+        )
+        if response.status_code in [200, 201]:
+            return response.json()
+        else:
+            return None
+    except Exception as e:
+        print(f"Registration error: {e}")
+        return None
 
-@router.get("/me", response_model=dict)
-async def read_current_user(current_user: dict = Depends(get_current_user)):
-    return current_user
+
+def login_user(email: str, password: str) -> Optional[Dict]:
+    """Login user and return tokens"""
+    try:
+        response = requests.post(
+            f"{BASE_URL}/auth/login",
+            json={
+                "email": email,
+                "password": password
+            }
+        )
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+    except Exception as e:
+        print(f"Login error: {e}")
+        return None
+
+
+def get_current_user(token: str) -> Optional[Dict]:
+    """Get current user details using token"""
+    try:
+        response = requests.get(
+            f"{BASE_URL}/auth/me",
+            headers={"Authorization": f"Bearer {token}"}
+        )
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+    except Exception as e:
+        print(f"Get current user error: {e}")
+        return None
+
+
+def refresh_token(refresh_token: str) -> Optional[Dict]:
+    """Refresh access token"""
+    try:
+        response = requests.post(
+            f"{BASE_URL}/auth/refresh",
+            json={"refresh_token": refresh_token}
+        )
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+    except Exception as e:
+        print(f"Token refresh error: {e}")
+        return None
