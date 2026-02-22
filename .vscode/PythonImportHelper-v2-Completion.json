@@ -1,0 +1,3513 @@
+[
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "ObjectId",
+        "importPath": "bson",
+        "description": "bson",
+        "isExtraImport": true,
+        "detail": "bson",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "billing_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "patient_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "prescription_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "report_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "user_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "patient_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "prescription_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "billing_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "report_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "appointment_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "billing_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "user_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "patient_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "prescription_collection",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "connect_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "close_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Security",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatRequest",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatResponse",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummaryRequest",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummaryResponse",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationRequest",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationResponse",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionRequest",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionResponse",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsAIRequest",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsAIResponse",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIResponseType",
+        "importPath": "app.schemas.ai_schema",
+        "description": "app.schemas.ai_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "process_chat",
+        "importPath": "app.ai.medical_assistant",
+        "description": "app.ai.medical_assistant",
+        "isExtraImport": true,
+        "detail": "app.ai.medical_assistant",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_report",
+        "importPath": "app.ai.report_summarizer",
+        "description": "app.ai.report_summarizer",
+        "isExtraImport": true,
+        "detail": "app.ai.report_summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "explain_prescription",
+        "importPath": "app.ai.prescription_explainer",
+        "description": "app.ai.prescription_explainer",
+        "isExtraImport": true,
+        "detail": "app.ai.prescription_explainer",
+        "documentation": {}
+    },
+    {
+        "label": "detect_anomalies",
+        "importPath": "app.ai.anomaly_detector",
+        "description": "app.ai.anomaly_detector",
+        "isExtraImport": true,
+        "detail": "app.ai.anomaly_detector",
+        "documentation": {}
+    },
+    {
+        "label": "generate_analytics",
+        "importPath": "app.ai.analytics_engine",
+        "description": "app.ai.analytics_engine",
+        "isExtraImport": true,
+        "detail": "app.ai.analytics_engine",
+        "documentation": {}
+    },
+    {
+        "label": "save_memory_entry",
+        "importPath": "app.ai.memory",
+        "description": "app.ai.memory",
+        "isExtraImport": true,
+        "detail": "app.ai.memory",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentCreate",
+        "importPath": "app.schemas.appointment_schema",
+        "description": "app.schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentUpdate",
+        "importPath": "app.schemas.appointment_schema",
+        "description": "app.schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentResponse",
+        "importPath": "app.schemas.appointment_schema",
+        "description": "app.schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentDetail",
+        "importPath": "app.schemas.appointment_schema",
+        "description": "app.schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentFilter",
+        "importPath": "app.schemas.appointment_schema",
+        "description": "app.schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentPatientView",
+        "importPath": "app.schemas.appointment_schema",
+        "description": "app.schemas.appointment_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_appointment",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_appointment_by_id",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_appointments",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_appointment",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_appointment",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "cancel_appointment",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_appointments",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_doctor_appointments",
+        "importPath": "app.services.appointment_service",
+        "description": "app.services.appointment_service",
+        "isExtraImport": true,
+        "detail": "app.services.appointment_service",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AuthResponse",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetRequest",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetConfirm",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePasswordRequest",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.auth_schema",
+        "description": "app.schemas.auth_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_access_token",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user_service",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "request_password_reset",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "confirm_password_reset",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "change_user_password",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "importPath": "app.utils.jwt_handler",
+        "description": "app.utils.jwt_handler",
+        "isExtraImport": true,
+        "detail": "app.utils.jwt_handler",
+        "documentation": {}
+    },
+    {
+        "label": "BillingCreate",
+        "importPath": "app.schemas.billing_schema",
+        "description": "app.schemas.billing_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.billing_schema",
+        "documentation": {}
+    },
+    {
+        "label": "BillingUpdate",
+        "importPath": "app.schemas.billing_schema",
+        "description": "app.schemas.billing_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.billing_schema",
+        "documentation": {}
+    },
+    {
+        "label": "BillingResponse",
+        "importPath": "app.schemas.billing_schema",
+        "description": "app.schemas.billing_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.billing_schema",
+        "documentation": {}
+    },
+    {
+        "label": "BillingStatsResponse",
+        "importPath": "app.schemas.billing_schema",
+        "description": "app.schemas.billing_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.billing_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_bill",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_bill_by_id",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_bills",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_bill",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_bill",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "mark_bill_paid",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "refund_bill",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_bills",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_billing_statistics",
+        "importPath": "app.services.billing_service",
+        "description": "app.services.billing_service",
+        "isExtraImport": true,
+        "detail": "app.services.billing_service",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorCreate",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorUpdate",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorResponse",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorPublicView",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorFilter",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorAvailability",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorStats",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorStatus",
+        "importPath": "app.schemas.doctor_schema",
+        "description": "app.schemas.doctor_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_doctor",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_doctor_by_id",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_doctors",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_doctor",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_doctor",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_doctor_status",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "add_doctor_availability",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_doctor_availability",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_doctor_statistics",
+        "importPath": "app.services.doctor_service",
+        "description": "app.services.doctor_service",
+        "isExtraImport": true,
+        "detail": "app.services.doctor_service",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "create_appointment",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_appointments",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_appointment_by_id",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "update_appointment",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "delete_appointment",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "app.models.appointment_model",
+        "description": "app.models.appointment_model",
+        "isExtraImport": true,
+        "detail": "app.models.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.user_model",
+        "description": "app.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "app.models.patient_model",
+        "description": "app.models.patient_model",
+        "isExtraImport": true,
+        "detail": "app.models.patient_model",
+        "documentation": {}
+    },
+    {
+        "label": "create_patient",
+        "importPath": "app.models.patient_model",
+        "description": "app.models.patient_model",
+        "isExtraImport": true,
+        "detail": "app.models.patient_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_patients",
+        "importPath": "app.models.patient_model",
+        "description": "app.models.patient_model",
+        "isExtraImport": true,
+        "detail": "app.models.patient_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_patient_by_id",
+        "importPath": "app.models.patient_model",
+        "description": "app.models.patient_model",
+        "isExtraImport": true,
+        "detail": "app.models.patient_model",
+        "documentation": {}
+    },
+    {
+        "label": "update_patient",
+        "importPath": "app.models.patient_model",
+        "description": "app.models.patient_model",
+        "isExtraImport": true,
+        "detail": "app.models.patient_model",
+        "documentation": {}
+    },
+    {
+        "label": "delete_patient",
+        "importPath": "app.models.patient_model",
+        "description": "app.models.patient_model",
+        "isExtraImport": true,
+        "detail": "app.models.patient_model",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Billing",
+        "importPath": "app.models.billing_model",
+        "description": "app.models.billing_model",
+        "isExtraImport": true,
+        "detail": "app.models.billing_model",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "app.models.doctor_model",
+        "description": "app.models.doctor_model",
+        "isExtraImport": true,
+        "detail": "app.models.doctor_model",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.auth_model",
+        "description": "app.models.auth_model",
+        "isExtraImport": true,
+        "detail": "app.models.auth_model",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "app.models.patients_model",
+        "description": "app.models.patients_model",
+        "isExtraImport": true,
+        "detail": "app.models.patients_model",
+        "documentation": {}
+    },
+    {
+        "label": "Prescription",
+        "importPath": "app.models.prescription_model",
+        "description": "app.models.prescription_model",
+        "isExtraImport": true,
+        "detail": "app.models.prescription_model",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "importPath": "app.components.Login",
+        "description": "app.components.Login",
+        "isExtraImport": true,
+        "detail": "app.components.Login",
+        "documentation": {}
+    },
+    {
+        "label": "patients_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "doctors_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "appointments_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "prescriptions_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "billing_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "analytics_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "ai_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "chat_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "auth_api",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "kind": 6,
+        "importPath": "BACKENED.APP.MODELS.appointment_model",
+        "description": "BACKENED.APP.MODELS.appointment_model",
+        "peekOfCode": "class Appointment(BaseModel):\n    patient_id: str       # MongoDB ObjectId of patient as string\n    doctor_id: str        # MongoDB ObjectId of doctor as string\n    appointment_date: str # YYYY-MM-DD\n    appointment_time: str # HH:MM\n    reason: Optional[str] = None\n    status: Optional[str] = \"Scheduled\"\n# ----------------------------\n# Helper Functions for CRUD\n# ----------------------------",
+        "detail": "BACKENED.APP.MODELS.appointment_model",
+        "documentation": {}
+    },
+    {
+        "label": "Billing",
+        "kind": 6,
+        "importPath": "BACKENED.APP.MODELS.billing_model",
+        "description": "BACKENED.APP.MODELS.billing_model",
+        "peekOfCode": "class Billing(BaseModel):\n    patient_id: str           # MongoDB ObjectId of the patient as string\n    appointment_id: Optional[str] = None  # Optional linked appointment\n    doctor_id: str            # MongoDB ObjectId of the doctor\n    services: list            # List of services or treatments\n    total_amount: float\n    status: Optional[str] = \"Unpaid\"  # Paid / Unpaid\n    payment_method: Optional[str] = None  # Cash / Card / Online\n    billing_date: Optional[str] = None  # YYYY-MM-DD\n# ----------------------------",
+        "detail": "BACKENED.APP.MODELS.billing_model",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "kind": 6,
+        "importPath": "BACKENED.APP.MODELS.doctor_model",
+        "description": "BACKENED.APP.MODELS.doctor_model",
+        "peekOfCode": "class Doctor(BaseModel):\n    name: str\n    specialization: str\n    experience: int       # in years\n    phone: str\n    email: Optional[str] = None\n    address: Optional[str] = None\n# ----------------------------\n# Helper Functions for CRUD\n# ----------------------------",
+        "detail": "BACKENED.APP.MODELS.doctor_model",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "kind": 6,
+        "importPath": "BACKENED.APP.MODELS.patients_model",
+        "description": "BACKENED.APP.MODELS.patients_model",
+        "peekOfCode": "class Patient(BaseModel):\n    name: str\n    age: int\n    gender: str\n    phone: str\n    email: Optional[str] = None\n    address: Optional[str] = None\n    medical_history: Optional[str] = None\n# ----------------------------\n# Helper Functions for CRUD",
+        "detail": "BACKENED.APP.MODELS.patients_model",
+        "documentation": {}
+    },
+    {
+        "label": "Prescription",
+        "kind": 6,
+        "importPath": "BACKENED.APP.MODELS.prescription_model",
+        "description": "BACKENED.APP.MODELS.prescription_model",
+        "peekOfCode": "class Prescription(BaseModel):\n    patient_id: str           # MongoDB ObjectId of the patient\n    doctor_id: str            # MongoDB ObjectId of the doctor\n    appointment_id: Optional[str] = None  # Optional linked appointment\n    medicines: List[str]      # List of medicine names\n    dosage: List[str]         # Corresponding dosages\n    instructions: Optional[str] = None\n    date: Optional[str] = None  # YYYY-MM-DD\n    notes: Optional[str] = None\n# ----------------------------",
+        "detail": "BACKENED.APP.MODELS.prescription_model",
+        "documentation": {}
+    },
+    {
+        "label": "Report",
+        "kind": 6,
+        "importPath": "BACKENED.APP.MODELS.report_model",
+        "description": "BACKENED.APP.MODELS.report_model",
+        "peekOfCode": "class Report(BaseModel):\n    patient_id: str            # MongoDB ObjectId of the patient\n    doctor_id: str             # MongoDB ObjectId of the doctor\n    appointment_id: Optional[str] = None  # Optional linked appointment\n    report_type: str           # e.g., Blood Test, X-ray, MRI\n    findings: Optional[str] = None\n    recommendations: Optional[str] = None\n    date: Optional[str] = None  # YYYY-MM-DD\n    file_url: Optional[str] = None  # URL if report is uploaded as file\n# ----------------------------",
+        "detail": "BACKENED.APP.MODELS.report_model",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.APP.ROUTERS.ai_routes",
+        "description": "BACKENED.APP.ROUTERS.ai_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/ai\", tags=[\"AI\"])\n# ===============================\n# 🤖 AI CHAT\n# ===============================\n@router.post(\"/chat\", response_model=AIChatResponse)\nasync def chat_with_ai(payload: AIChatRequest):\n    try:\n        result = await process_chat(payload)\n        # Save conversation memory\n        await save_memory_entry(",
+        "detail": "BACKENED.APP.ROUTERS.ai_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.APP.ROUTERS.appointments",
+        "description": "BACKENED.APP.ROUTERS.appointments",
+        "peekOfCode": "router = APIRouter(prefix=\"/appointments\", tags=[\"Appointments\"])\n# ==================================\n# 📌 CREATE APPOINTMENT\n# ==================================\n@router.post(\"/\", response_model=AppointmentResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: AppointmentCreate):\n    try:\n        return await create_appointment(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
+        "detail": "BACKENED.APP.ROUTERS.appointments",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.APP.ROUTERS.auth",
+        "description": "BACKENED.APP.ROUTERS.auth",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"Authentication\"])\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\n# ==================================\n# 📝 REGISTER\n# ==================================\n@router.post(\"/register\", response_model=AuthResponse, status_code=status.HTTP_201_CREATED)\nasync def register(payload: UserRegister):\n    try:\n        return await register_user(payload)\n    except Exception as e:",
+        "detail": "BACKENED.APP.ROUTERS.auth",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "BACKENED.APP.ROUTERS.auth",
+        "description": "BACKENED.APP.ROUTERS.auth",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/login\")\n# ==================================\n# 📝 REGISTER\n# ==================================\n@router.post(\"/register\", response_model=AuthResponse, status_code=status.HTTP_201_CREATED)\nasync def register(payload: UserRegister):\n    try:\n        return await register_user(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
+        "detail": "BACKENED.APP.ROUTERS.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.APP.ROUTERS.billing",
+        "description": "BACKENED.APP.ROUTERS.billing",
+        "peekOfCode": "router = APIRouter(prefix=\"/billing\", tags=[\"Billing\"])\n# ==================================\n# 💰 CREATE BILL\n# ==================================\n@router.post(\"/\", response_model=BillingResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: BillingCreate):\n    try:\n        return await create_bill(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
+        "detail": "BACKENED.APP.ROUTERS.billing",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "BACKENED.APP.ROUTERS.doctors",
+        "description": "BACKENED.APP.ROUTERS.doctors",
+        "peekOfCode": "router = APIRouter(prefix=\"/doctors\", tags=[\"Doctors\"])\n# ==================================\n# 👨‍⚕️ CREATE DOCTOR\n# ==================================\n@router.post(\"/\", response_model=DoctorResponse, status_code=status.HTTP_201_CREATED)\nasync def create(payload: DoctorCreate):\n    try:\n        return await create_doctor(payload)\n    except Exception as e:\n        raise HTTPException(status_code=400, detail=str(e))",
+        "detail": "BACKENED.APP.ROUTERS.doctors",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class UserRole(str, Enum):\n    patient = \"patient\"\n    doctor = \"doctor\"\n    admin = \"admin\"\nclass AIResponseType(str, Enum):\n    chat = \"chat\"\n    summary = \"summary\"\n    explanation = \"explanation\"\n    anomaly = \"anomaly\"\n    analytics = \"analytics\"",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIResponseType",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AIResponseType(str, Enum):\n    chat = \"chat\"\n    summary = \"summary\"\n    explanation = \"explanation\"\n    anomaly = \"anomaly\"\n    analytics = \"analytics\"\nclass AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None\n    message: str = Field(..., min_length=2)\n    context: Optional[Dict[str, Any]] = None  # optional metadata\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    sources: Optional[List[str]] = None",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    sources: Optional[List[str]] = None\n    confidence_score: Optional[float] = None\n    timestamp: Optional[str] = None\nclass RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int]\n    snippet: str",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RAGSource",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int]\n    snippet: str\n    score: float\nclass ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummaryRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]]\n    risk_level: Optional[str]\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummaryResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]]\n    risk_level: Optional[str]\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]\n    side_effects: Optional[List[str]]\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]\n    side_effects: Optional[List[str]]\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]\n    severity_level: Optional[str]\n    explanation: Optional[str]\nclass AnalyticsAIRequest(BaseModel):\n    query: str",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]\n    severity_level: Optional[str]\n    explanation: Optional[str]\nclass AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsAIRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]]\n    insights: Optional[List[str]]\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsAIResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]]\n    insights: Optional[List[str]]\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIMemoryEntry",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str\nclass AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str]\nclass AIChatResponse(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AISafetyMeta",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str]\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta]\n    sources: Optional[List[str]]\n    confidence_score: Optional[float]\n    timestamp: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta]\n    sources: Optional[List[str]]\n    confidence_score: Optional[float]\n    timestamp: Optional[str]\nclass AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIStreamChunk",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.ai_schema",
+        "description": "BACKENED.APP.SCHEMAS.ai_schema",
+        "peekOfCode": "class AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
+        "detail": "BACKENED.APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentStatus",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentStatus(str, Enum):\n    scheduled = \"scheduled\"\n    confirmed = \"confirmed\"\n    completed = \"completed\"\n    cancelled = \"cancelled\"\n    no_show = \"no_show\"\n    rescheduled = \"rescheduled\"\nclass AppointmentType(str, Enum):\n    consultation = \"consultation\"\n    follow_up = \"follow_up\"",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentType",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentType(str, Enum):\n    consultation = \"consultation\"\n    follow_up = \"follow_up\"\n    emergency = \"emergency\"\n    telemedicine = \"telemedicine\"\nclass PaymentStatus(str, Enum):\n    pending = \"pending\"\n    paid = \"paid\"\n    refunded = \"refunded\"\nclass AppointmentBase(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class PaymentStatus(str, Enum):\n    pending = \"pending\"\n    paid = \"paid\"\n    refunded = \"refunded\"\nclass AppointmentBase(BaseModel):\n    patient_id: int\n    doctor_id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    reason: Optional[str] = Field(None, max_length=500)",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentBase",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentBase(BaseModel):\n    patient_id: int\n    doctor_id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    reason: Optional[str] = Field(None, max_length=500)\n    notes: Optional[str] = None\nclass AppointmentCreate(AppointmentBase):\n    pass\nclass AppointmentUpdate(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentCreate",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentCreate(AppointmentBase):\n    pass\nclass AppointmentUpdate(BaseModel):\n    appointment_date: Optional[datetime]\n    appointment_type: Optional[AppointmentType]\n    status: Optional[AppointmentStatus]\n    reason: Optional[str]\n    notes: Optional[str]\nclass AppointmentResponse(AppointmentBase):\n    id: int",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentUpdate",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentUpdate(BaseModel):\n    appointment_date: Optional[datetime]\n    appointment_type: Optional[AppointmentType]\n    status: Optional[AppointmentStatus]\n    reason: Optional[str]\n    notes: Optional[str]\nclass AppointmentResponse(AppointmentBase):\n    id: int\n    status: AppointmentStatus\n    payment_status: PaymentStatus",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentResponse(AppointmentBase):\n    id: int\n    status: AppointmentStatus\n    payment_status: PaymentStatus\n    created_at: datetime\n    updated_at: Optional[datetime]\n    class Config:\n        orm_mode = True\nclass AppointmentDetail(BaseModel):\n    id: int",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentDetail",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentDetail(BaseModel):\n    id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    status: AppointmentStatus\n    reason: Optional[str]\n    notes: Optional[str]\n    patient_name: str\n    doctor_name: str\n    department: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentFilter",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentFilter(BaseModel):\n    doctor_id: Optional[int]\n    patient_id: Optional[int]\n    status: Optional[AppointmentStatus]\n    start_date: Optional[datetime]\n    end_date: Optional[datetime]\nclass AppointmentAIContext(BaseModel):\n    appointment_id: int\n    patient_id: int\n    doctor_id: int",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentAIContext",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentAIContext(BaseModel):\n    appointment_id: int\n    patient_id: int\n    doctor_id: int\n    symptoms: Optional[str]\n    previous_history: Optional[str]\nclass AppointmentPatientView(BaseModel):\n    id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentPatientView",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "description": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "peekOfCode": "class AppointmentPatientView(BaseModel):\n    id: int\n    appointment_date: datetime\n    appointment_type: AppointmentType\n    status: AppointmentStatus\n    doctor_name: str\n    class Config:\n        orm_mode = True",
+        "detail": "BACKENED.APP.SCHEMAS.appointment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class UserRole(str, Enum):\n    patient = \"patient\"\n    doctor = \"doctor\"\n    admin = \"admin\"\nclass UserBase(BaseModel):\n    email: EmailStr\n    full_name: str = Field(..., min_length=2, max_length=100)\n    role: UserRole\nclass UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=128)",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\n    full_name: str = Field(..., min_length=2, max_length=100)\n    role: UserRole\nclass UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=128)\n    @validator(\"password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=128)\n    @validator(\"password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")\n        if not any(char.isupper() for char in v):\n            raise ValueError(\"Password must contain at least one uppercase letter\")\n        return v\nclass UserLogin(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass Token(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass TokenPayload(BaseModel):\n    user_id: int\n    email: EmailStr",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\nclass TokenPayload(BaseModel):\n    user_id: int\n    email: EmailStr\n    role: UserRole\n    exp: Optional[int] = None\nclass RefreshTokenRequest(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayload",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class TokenPayload(BaseModel):\n    user_id: int\n    email: EmailStr\n    role: UserRole\n    exp: Optional[int] = None\nclass RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass AuthResponse(BaseModel):\n    user_id: int\n    email: EmailStr",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass AuthResponse(BaseModel):\n    user_id: int\n    email: EmailStr\n    full_name: str\n    role: UserRole\n    access_token: str\n    refresh_token: str\n    class Config:",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AuthResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class AuthResponse(BaseModel):\n    user_id: int\n    email: EmailStr\n    full_name: str\n    role: UserRole\n    access_token: str\n    refresh_token: str\n    class Config:\n        orm_mode = True\nclass UserResponse(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    email: EmailStr\n    full_name: str\n    role: UserRole\n    created_at: datetime\n    class Config:\n        orm_mode = True\nclass PasswordResetRequest(BaseModel):\n    email: EmailStr",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class PasswordResetRequest(BaseModel):\n    email: EmailStr\nclass PasswordResetConfirm(BaseModel):\n    reset_token: str\n    new_password: str = Field(..., min_length=8)\n    @validator(\"new_password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")\n        if not any(char.isupper() for char in v):",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetConfirm",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class PasswordResetConfirm(BaseModel):\n    reset_token: str\n    new_password: str = Field(..., min_length=8)\n    @validator(\"new_password\")\n    def validate_password_strength(cls, v):\n        if not any(char.isdigit() for char in v):\n            raise ValueError(\"Password must contain at least one number\")\n        if not any(char.isupper() for char in v):\n            raise ValueError(\"Password must contain at least one uppercase letter\")\n        return v",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePasswordRequest",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class ChangePasswordRequest(BaseModel):\n    current_password: str\n    new_password: str = Field(..., min_length=8)\nclass StaffRegister(UserRegister):\n    staff_id: str\n    department: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "StaffRegister",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.auth_schema",
+        "description": "BACKENED.APP.SCHEMAS.auth_schema",
+        "peekOfCode": "class StaffRegister(UserRegister):\n    staff_id: str\n    department: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.auth_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorStatus",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorStatus(str, Enum):\n    active = \"active\"\n    inactive = \"inactive\"\n    on_leave = \"on_leave\"\nclass ConsultationMode(str, Enum):\n    in_person = \"in_person\"\n    telemedicine = \"telemedicine\"\n    both = \"both\"\nclass DoctorBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ConsultationMode",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class ConsultationMode(str, Enum):\n    in_person = \"in_person\"\n    telemedicine = \"telemedicine\"\n    both = \"both\"\nclass DoctorBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: EmailStr\n    phone: Optional[str]\n    specialization: str = Field(..., max_length=100)\n    department: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorBase",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: EmailStr\n    phone: Optional[str]\n    specialization: str = Field(..., max_length=100)\n    department: Optional[str]\n    experience_years: Optional[int] = Field(None, ge=0, le=60)\n    consultation_fee: Optional[float] = Field(None, ge=0)\n    consultation_mode: ConsultationMode = ConsultationMode.in_person\nclass DoctorCreate(DoctorBase):",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorCreate",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorCreate(DoctorBase):\n    license_number: str = Field(..., max_length=50)\nclass DoctorUpdate(BaseModel):\n    full_name: Optional[str]\n    phone: Optional[str]\n    specialization: Optional[str]\n    department: Optional[str]\n    experience_years: Optional[int]\n    consultation_fee: Optional[float]\n    consultation_mode: Optional[ConsultationMode]",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorUpdate",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorUpdate(BaseModel):\n    full_name: Optional[str]\n    phone: Optional[str]\n    specialization: Optional[str]\n    department: Optional[str]\n    experience_years: Optional[int]\n    consultation_fee: Optional[float]\n    consultation_mode: Optional[ConsultationMode]\n    status: Optional[DoctorStatus]\nclass DoctorAvailability(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorAvailability",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorAvailability(BaseModel):\n    day_of_week: str  # e.g., Monday\n    start_time: time\n    end_time: time\nclass DoctorResponse(DoctorBase):\n    id: int\n    license_number: str\n    status: DoctorStatus\n    created_at: datetime\n    updated_at: Optional[datetime]",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorResponse(DoctorBase):\n    id: int\n    license_number: str\n    status: DoctorStatus\n    created_at: datetime\n    updated_at: Optional[datetime]\n    class Config:\n        orm_mode = True\nclass DoctorPublicView(BaseModel):\n    id: int",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorPublicView",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorPublicView(BaseModel):\n    id: int\n    full_name: str\n    specialization: str\n    department: Optional[str]\n    experience_years: Optional[int]\n    consultation_fee: Optional[float]\n    consultation_mode: ConsultationMode\n    class Config:\n        orm_mode = True",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorFilter",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorFilter(BaseModel):\n    specialization: Optional[str]\n    department: Optional[str]\n    consultation_mode: Optional[ConsultationMode]\n    status: Optional[DoctorStatus]\n    min_experience: Optional[int]\n    max_fee: Optional[float]\nclass DoctorStats(BaseModel):\n    doctor_id: int\n    total_appointments: int",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorStats",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorStats(BaseModel):\n    doctor_id: int\n    total_appointments: int\n    completed_appointments: int\n    cancelled_appointments: int\n    average_rating: Optional[float]\nclass DoctorAIContext(BaseModel):\n    doctor_id: int\n    specialization: str\n    recent_cases_summary: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorAIContext",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorAIContext(BaseModel):\n    doctor_id: int\n    specialization: str\n    recent_cases_summary: Optional[str]\n    average_consultation_time: Optional[int]\nfrom pydantic import validator\nclass DoctorAvailability(BaseModel):\n    day_of_week: str\n    start_time: time\n    end_time: time",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorAvailability",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "description": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "peekOfCode": "class DoctorAvailability(BaseModel):\n    day_of_week: str\n    start_time: time\n    end_time: time\n    @validator(\"end_time\")\n    def validate_time(cls, v, values):\n        if \"start_time\" in values and v <= values[\"start_time\"]:\n            raise ValueError(\"End time must be after start time\")\n        return v",
+        "detail": "BACKENED.APP.SCHEMAS.doctor_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Gender",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class Gender(str, Enum):\n    male = \"male\"\n    female = \"female\"\n    other = \"other\"\nclass BloodGroup(str, Enum):\n    A_pos = \"A+\"\n    A_neg = \"A-\"\n    B_pos = \"B+\"\n    B_neg = \"B-\"\n    AB_pos = \"AB+\"",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "BloodGroup",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class BloodGroup(str, Enum):\n    A_pos = \"A+\"\n    A_neg = \"A-\"\n    B_pos = \"B+\"\n    B_neg = \"B-\"\n    AB_pos = \"AB+\"\n    AB_neg = \"AB-\"\n    O_pos = \"O+\"\n    O_neg = \"O-\"\nclass MaritalStatus(str, Enum):",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "MaritalStatus",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class MaritalStatus(str, Enum):\n    single = \"single\"\n    married = \"married\"\n    divorced = \"divorced\"\n    widowed = \"widowed\"\nclass PatientBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: date",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientBase",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientBase(BaseModel):\n    full_name: str = Field(..., min_length=2, max_length=100)\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: date\n    gender: Gender\n    blood_group: Optional[BloodGroup]\n    marital_status: Optional[MaritalStatus]\n    address: Optional[str]\nclass PatientCreate(PatientBase):",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientCreate",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientCreate(PatientBase):\n    emergency_contact_name: Optional[str]\n    emergency_contact_phone: Optional[str]\n    insurance_provider: Optional[str]\n    insurance_number: Optional[str]\nclass PatientUpdate(BaseModel):\n    full_name: Optional[str]\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: Optional[date]",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientUpdate",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientUpdate(BaseModel):\n    full_name: Optional[str]\n    email: Optional[EmailStr]\n    phone: Optional[str]\n    date_of_birth: Optional[date]\n    gender: Optional[Gender]\n    blood_group: Optional[BloodGroup]\n    marital_status: Optional[MaritalStatus]\n    address: Optional[str]\n    emergency_contact_name: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalHistory",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class MedicalHistory(BaseModel):\n    allergies: Optional[List[str]]\n    chronic_diseases: Optional[List[str]]\n    past_surgeries: Optional[List[str]]\n    current_medications: Optional[List[str]]\n    family_history: Optional[List[str]]\nclass PatientResponse(PatientBase):\n    id: int\n    emergency_contact_name: Optional[str]\n    emergency_contact_phone: Optional[str]",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientResponse",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientResponse(PatientBase):\n    id: int\n    emergency_contact_name: Optional[str]\n    emergency_contact_phone: Optional[str]\n    insurance_provider: Optional[str]\n    insurance_number: Optional[str]\n    created_at: datetime\n    updated_at: Optional[datetime]\n    class Config:\n        orm_mode = True",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientPublicView",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientPublicView(BaseModel):\n    id: int\n    full_name: str\n    date_of_birth: date\n    gender: Gender\n    blood_group: Optional[BloodGroup]\n    allergies: Optional[List[str]]\n    class Config:\n        orm_mode = True\nclass PatientFilter(BaseModel):",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientFilter",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientFilter(BaseModel):\n    gender: Optional[Gender]\n    blood_group: Optional[BloodGroup]\n    min_age: Optional[int]\n    max_age: Optional[int]\n    chronic_disease: Optional[str]\nclass PatientStats(BaseModel):\n    total_appointments: int\n    completed_appointments: int\n    cancelled_appointments: int",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientStats",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientStats(BaseModel):\n    total_appointments: int\n    completed_appointments: int\n    cancelled_appointments: int\n    total_bills: Optional[float]\n    outstanding_balance: Optional[float]\nclass PatientAIContext(BaseModel):\n    patient_id: int\n    age: int\n    gender: Gender",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PatientAIContext",
+        "kind": 6,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "class PatientAIContext(BaseModel):\n    patient_id: int\n    age: int\n    gender: Gender\n    blood_group: Optional[BloodGroup]\n    chronic_conditions: Optional[List[str]]\n    allergies: Optional[List[str]]\n    recent_reports_summary: Optional[str]\n    patient_id: int\n    accessed_by: int",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "validate_age",
+        "kind": 2,
+        "importPath": "BACKENED.APP.SCHEMAS.patient_schema",
+        "description": "BACKENED.APP.SCHEMAS.patient_schema",
+        "peekOfCode": "def validate_age(cls, v):\n    if v > date.today():\n        raise ValueError(\"Date of birth cannot be in the future\")\n    return v",
+        "detail": "BACKENED.APP.SCHEMAS.patient_schema",
+        "documentation": {}
+    },
+    {
+        "label": "SymptomsRequest",
+        "kind": 6,
+        "importPath": "frontend.api.ai_api",
+        "description": "frontend.api.ai_api",
+        "peekOfCode": "class SymptomsRequest(BaseModel):\n    symptoms: List[str]   # List of symptoms\n    age: Optional[int] = None\n    gender: Optional[str] = None\n# ----------------------------\n# Pydantic Model for Response\n# ----------------------------\nclass PredictionResponse(BaseModel):\n    probable_disease: str\n    confidence: float",
+        "detail": "frontend.api.ai_api",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionResponse",
+        "kind": 6,
+        "importPath": "frontend.api.ai_api",
+        "description": "frontend.api.ai_api",
+        "peekOfCode": "class PredictionResponse(BaseModel):\n    probable_disease: str\n    confidence: float\n    recommended_action: str\n# ----------------------------\n# Dummy AI Model Function\n# ----------------------------\ndef predict_disease(symptoms: List[str], age: Optional[int], gender: Optional[str]):\n    \"\"\"\n    This is a placeholder AI function.",
+        "detail": "frontend.api.ai_api",
+        "documentation": {}
+    },
+    {
+        "label": "predict_disease",
+        "kind": 2,
+        "importPath": "frontend.api.ai_api",
+        "description": "frontend.api.ai_api",
+        "peekOfCode": "def predict_disease(symptoms: List[str], age: Optional[int], gender: Optional[str]):\n    \"\"\"\n    This is a placeholder AI function.\n    Replace it with your real ML/DL model or API call.\n    \"\"\"\n    # Example logic: very simple keyword matching\n    if \"fever\" in symptoms and \"cough\" in symptoms:\n        return {\n            \"probable_disease\": \"Flu\",\n            \"confidence\": 0.85,",
+        "detail": "frontend.api.ai_api",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "frontend.api.ai_api",
+        "description": "frontend.api.ai_api",
+        "peekOfCode": "router = APIRouter()\n# ----------------------------\n# Pydantic Model for Request\n# ----------------------------\nclass SymptomsRequest(BaseModel):\n    symptoms: List[str]   # List of symptoms\n    age: Optional[int] = None\n    gender: Optional[str] = None\n# ----------------------------\n# Pydantic Model for Response",
+        "detail": "frontend.api.ai_api",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "frontend.api.appointment_api",
+        "description": "frontend.api.appointment_api",
+        "peekOfCode": "router = APIRouter()\n# ----------------------------\n# Create Appointment\n# ----------------------------\n@router.post(\"/appointments\", response_model=dict)\nasync def add_appointment(appointment: Appointment):\n    appointment_id = await create_appointment(appointment)\n    return {\"id\": appointment_id, \"message\": \"Appointment created successfully\"}\n# ----------------------------\n# Get All Appointments",
+        "detail": "frontend.api.appointment_api",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "def hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str):\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str):\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\n# ----------------------------\n# Register User",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\n# ----------------------------\n# Register User\n# ----------------------------\n@router.post(\"/register\", response_model=dict)",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "def get_current_user(credentials: HTTPAuthorizationCredentials = Security(security)):\n    token = credentials.credentials\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        username = payload.get(\"sub\")\n        role = payload.get(\"role\")\n        return {\"username\": username, \"role\": role}\n    except jwt.PyJWTError:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n@router.get(\"/me\", response_model=dict)",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "router = APIRouter()\n# ----------------------------\n# Security & JWT settings\n# ----------------------------\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nSECRET_KEY = \"your_super_secret_key\"  # Change this in production\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60\n# ----------------------------\n# Helper Functions",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nSECRET_KEY = \"your_super_secret_key\"  # Change this in production\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60\n# ----------------------------\n# Helper Functions\n# ----------------------------\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str):",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "SECRET_KEY = \"your_super_secret_key\"  # Change this in production\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60\n# ----------------------------\n# Helper Functions\n# ----------------------------\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str):\n    return pwd_context.verify(plain_password, hashed_password)",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60\n# ----------------------------\n# Helper Functions\n# ----------------------------\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str):\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 60\n# ----------------------------\n# Helper Functions\n# ----------------------------\ndef hash_password(password: str):\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str):\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "kind": 5,
+        "importPath": "frontend.api.auth_api",
+        "description": "frontend.api.auth_api",
+        "peekOfCode": "security = HTTPBearer()\ndef get_current_user(credentials: HTTPAuthorizationCredentials = Security(security)):\n    token = credentials.credentials\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        username = payload.get(\"sub\")\n        role = payload.get(\"role\")\n        return {\"username\": username, \"role\": role}\n    except jwt.PyJWTError:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")",
+        "detail": "frontend.api.auth_api",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "frontend.api.patient_api",
+        "description": "frontend.api.patient_api",
+        "peekOfCode": "router = APIRouter()\n# ----------------------------\n# Create Patient\n# ----------------------------\n@router.post(\"/patients\", response_model=dict)\nasync def add_patient(patient: Patient):\n    patient_id = await create_patient(patient)\n    return {\"id\": patient_id, \"message\": \"Patient created successfully\"}\n# ----------------------------\n# Get All Patients",
+        "detail": "frontend.api.patient_api",
+        "documentation": {}
+    },
+    {
+        "label": "ai_response",
+        "kind": 2,
+        "importPath": "frontend.components.chat_ui",
+        "description": "frontend.components.chat_ui",
+        "peekOfCode": "def ai_response(message: str):\n    \"\"\"\n    Simulated AI response logic.\n    Replace this with your real AI model/API.\n    \"\"\"\n    if \"fever\" in message.lower():\n        return \"It seems like you have a fever. Please take rest and drink fluids.\"\n    elif \"headache\" in message.lower():\n        return \"For headache, make sure to rest in a quiet place and stay hydrated.\"\n    else:",
+        "detail": "frontend.components.chat_ui",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "frontend.components.chat_ui",
+        "description": "frontend.components.chat_ui",
+        "peekOfCode": "router = APIRouter()\n# ----------------------------\n# Dummy Chat AI Logic\n# ----------------------------\ndef ai_response(message: str):\n    \"\"\"\n    Simulated AI response logic.\n    Replace this with your real AI model/API.\n    \"\"\"\n    if \"fever\" in message.lower():",
+        "detail": "frontend.components.chat_ui",
+        "documentation": {}
+    },
+    {
+        "label": "PatientForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class PatientForm(BaseModel):\n    name: str\n    age: int\n    gender: str\n    phone: str\n    email: Optional[EmailStr] = None\n    address: Optional[str] = None\n    medical_history: Optional[str] = None\n# ----------------------------\n# Doctor Form",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class DoctorForm(BaseModel):\n    name: str\n    specialization: str\n    experience: int\n    phone: str\n    email: Optional[EmailStr] = None\n    address: Optional[str] = None\n# ----------------------------\n# Appointment Form\n# ----------------------------",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class AppointmentForm(BaseModel):\n    patient_id: str\n    doctor_id: str\n    appointment_date: str  # YYYY-MM-DD\n    appointment_time: str  # HH:MM\n    reason: Optional[str] = None\n    status: Optional[str] = \"Scheduled\"\n# ----------------------------\n# Billing Form\n# ----------------------------",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "BillingForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class BillingForm(BaseModel):\n    patient_id: str\n    appointment_id: Optional[str] = None\n    doctor_id: str\n    services: List[str]\n    total_amount: float\n    status: Optional[str] = \"Unpaid\"  # Paid / Unpaid\n    payment_method: Optional[str] = None\n    billing_date: Optional[str] = None  # YYYY-MM-DD\n# ----------------------------",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class PrescriptionForm(BaseModel):\n    patient_id: str\n    doctor_id: str\n    appointment_id: Optional[str] = None\n    medicines: List[str]\n    dosage: List[str]\n    instructions: Optional[str] = None\n    date: Optional[str] = None  # YYYY-MM-DD\n    notes: Optional[str] = None\n# ----------------------------",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "ReportForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class ReportForm(BaseModel):\n    patient_id: str\n    doctor_id: str\n    appointment_id: Optional[str] = None\n    report_type: str  # e.g., Blood Test, X-ray, MRI\n    findings: Optional[str] = None\n    recommendations: Optional[str] = None\n    date: Optional[str] = None  # YYYY-MM-DD\n    file_url: Optional[str] = None\n# ----------------------------",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "frontend.components.forms",
+        "description": "frontend.components.forms",
+        "peekOfCode": "class UserForm(BaseModel):\n    username: str\n    password: str\n    role: str  # admin / doctor / patient",
+        "detail": "frontend.components.forms",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_symptoms",
+        "kind": 2,
+        "importPath": "frontend.pages.AI_Assistant",
+        "description": "frontend.pages.AI_Assistant",
+        "peekOfCode": "def analyze_symptoms(symptoms: List[str], age: int = None, gender: str = None) -> Dict:\n    \"\"\"\n    Analyze symptoms and return probable disease, confidence, and recommendations.\n    This is a simple rule-based AI. Replace with ML/DL model for real predictions.\n    \"\"\"\n    result = {\"probable_disease\": \"Unknown\", \"confidence\": 0.50, \"recommended_action\": \"Consult a doctor.\"}\n    for symptom in symptoms:\n        key = symptom.lower()\n        if key in AI_KNOWLEDGE_BASE:\n            result[\"probable_disease\"] = AI_KNOWLEDGE_BASE[key][\"disease\"]",
+        "detail": "frontend.pages.AI_Assistant",
+        "documentation": {}
+    },
+    {
+        "label": "chat_with_ai",
+        "kind": 2,
+        "importPath": "frontend.pages.AI_Assistant",
+        "description": "frontend.pages.AI_Assistant",
+        "peekOfCode": "def chat_with_ai(message: str) -> str:\n    \"\"\"\n    Simple chat logic: respond based on keywords in the message.\n    Can be integrated with chat_ui.py\n    \"\"\"\n    msg = message.lower()\n    for key in AI_KNOWLEDGE_BASE.keys():\n        if key in msg:\n            return f\"AI Response: {AI_KNOWLEDGE_BASE[key]['recommendation']} (Disease: {AI_KNOWLEDGE_BASE[key]['disease']})\"\n    return \"AI Response: I need more details to provide advice. Can you describe your symptoms further?\"",
+        "detail": "frontend.pages.AI_Assistant",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\n# ----------------------------\n# JWT Configuration\n# ----------------------------\nSECRET_KEY = \"your-secret-key\"  # Replace with strong secret\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60  # 1 hour",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\n# ----------------------------\n# JWT Configuration\n# ----------------------------\nSECRET_KEY = \"your-secret-key\"  # Replace with strong secret\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60  # 1 hour\ndef create_access_token(data: dict, expires_delta: timedelta = None) -> str:\n    to_encode = data.copy()",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: timedelta = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt\ndef decode_access_token(token: str) -> dict:",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "kind": 2,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "def decode_access_token(token: str) -> dict:\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        return payload\n    except JWTError:\n        raise HTTPException(status_code=401, detail=\"Invalid token\")\n# ----------------------------\n# User Authentication\n# ----------------------------\nasync def authenticate_user(username: str, password: str) -> dict:",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\n# ----------------------------\n# JWT Configuration\n# ----------------------------\nSECRET_KEY = \"your-secret-key\"  # Replace with strong secret\nALGORITHM = \"HS256\"",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "SECRET_KEY = \"your-secret-key\"  # Replace with strong secret\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60  # 1 hour\ndef create_access_token(data: dict, expires_delta: timedelta = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60  # 1 hour\ndef create_access_token(data: dict, expires_delta: timedelta = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "frontend.pages.Login",
+        "description": "frontend.pages.Login",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 60  # 1 hour\ndef create_access_token(data: dict, expires_delta: timedelta = None) -> str:\n    to_encode = data.copy()\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "frontend.pages.Login",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "frontend.app",
+        "description": "frontend.app",
+        "peekOfCode": "app = FastAPI(\n    title=\"Hospital Management System\",\n    description=\"Complete backend API for hospital management with AI assistant, analytics, and JWT authentication\",\n    version=\"1.0.0\"\n)\n# ----------------------------\n# CORS Middleware\n# ----------------------------\norigins = [\"*\"]  # You can restrict to frontend URL\napp.add_middleware(",
+        "detail": "frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "frontend.app",
+        "description": "frontend.app",
+        "peekOfCode": "origins = [\"*\"]  # You can restrict to frontend URL\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"]\n)\n# ----------------------------\n# Startup and Shutdown Events",
+        "detail": "frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "frontend.app",
+        "description": "frontend.app",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"auth/login\")\nasync def get_current_user(token: str = Depends(oauth2_scheme)):\n    try:\n        payload = decode_access_token(token)\n        return payload\n    except Exception:\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Invalid authentication credentials\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "detail": "frontend.app",
+        "documentation": {}
+    },
+    {
+        "label": "MONGODB_URI",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "MONGODB_URI = os.getenv(\"MONGODB_URI\", \"mongodb://localhost:27017\")\nDATABASE_NAME = os.getenv(\"DATABASE_NAME\", \"hospital_management\")\n# ----------------------------\n# JWT Configuration\n# ----------------------------\nJWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\", \"your-very-strong-secret-key\")\nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\", \"HS256\")\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\", 60))\n# ----------------------------\n# Server Configuration",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "DATABASE_NAME = os.getenv(\"DATABASE_NAME\", \"hospital_management\")\n# ----------------------------\n# JWT Configuration\n# ----------------------------\nJWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\", \"your-very-strong-secret-key\")\nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\", \"HS256\")\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\", 60))\n# ----------------------------\n# Server Configuration\n# ----------------------------",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_SECRET_KEY",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "JWT_SECRET_KEY = os.getenv(\"JWT_SECRET_KEY\", \"your-very-strong-secret-key\")\nJWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\", \"HS256\")\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\", 60))\n# ----------------------------\n# Server Configuration\n# ----------------------------\nHOST = os.getenv(\"HOST\", \"127.0.0.1\")\nPORT = int(os.getenv(\"PORT\", 8000))\n# ----------------------------\n# Other Configurations",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_ALGORITHM",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "JWT_ALGORITHM = os.getenv(\"JWT_ALGORITHM\", \"HS256\")\nACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\", 60))\n# ----------------------------\n# Server Configuration\n# ----------------------------\nHOST = os.getenv(\"HOST\", \"127.0.0.1\")\nPORT = int(os.getenv(\"PORT\", 8000))\n# ----------------------------\n# Other Configurations\n# ----------------------------",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv(\"ACCESS_TOKEN_EXPIRE_MINUTES\", 60))\n# ----------------------------\n# Server Configuration\n# ----------------------------\nHOST = os.getenv(\"HOST\", \"127.0.0.1\")\nPORT = int(os.getenv(\"PORT\", 8000))\n# ----------------------------\n# Other Configurations\n# ----------------------------\nDEBUG = os.getenv(\"DEBUG\", \"True\") == \"True\"",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "HOST",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "HOST = os.getenv(\"HOST\", \"127.0.0.1\")\nPORT = int(os.getenv(\"PORT\", 8000))\n# ----------------------------\n# Other Configurations\n# ----------------------------\nDEBUG = os.getenv(\"DEBUG\", \"True\") == \"True\"\nCORS_ORIGINS = os.getenv(\"CORS_ORIGINS\", \"*\")  # Can be comma-separated frontend URLs",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "PORT",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "PORT = int(os.getenv(\"PORT\", 8000))\n# ----------------------------\n# Other Configurations\n# ----------------------------\nDEBUG = os.getenv(\"DEBUG\", \"True\") == \"True\"\nCORS_ORIGINS = os.getenv(\"CORS_ORIGINS\", \"*\")  # Can be comma-separated frontend URLs",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "DEBUG = os.getenv(\"DEBUG\", \"True\") == \"True\"\nCORS_ORIGINS = os.getenv(\"CORS_ORIGINS\", \"*\")  # Can be comma-separated frontend URLs",
+        "detail": "frontend.config",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ORIGINS",
+        "kind": 5,
+        "importPath": "frontend.config",
+        "description": "frontend.config",
+        "peekOfCode": "CORS_ORIGINS = os.getenv(\"CORS_ORIGINS\", \"*\")  # Can be comma-separated frontend URLs",
+        "detail": "frontend.config",
+        "documentation": {}
+    }
+]
