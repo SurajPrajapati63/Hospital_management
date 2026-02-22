@@ -1,6 +1,6 @@
 # anomaly_detector.py
 
-from ..SCHEMAS.ai_schema import (
+from ..schemas.ai_schema import (
     AnomalyDetectionRequest,
     AnomalyDetectionResponse
 )

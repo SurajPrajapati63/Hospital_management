@@ -1,5 +1,5 @@
 import google.generativeai as genai
-from APP.config import settings
+from app.config import settings
 
 
 class LLMProvider:

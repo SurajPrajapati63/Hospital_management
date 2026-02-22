@@ -20,10 +20,10 @@ from app.services.prescription_service import (
     get_doctor_prescriptions,
     update_prescription,
     delete_prescription,
-    add_medicine_to_prescription,
+    add_medicine,
 )
 
-from ai.prescription_explainer import explain_prescription
+
 
 router = APIRouter(prefix="/prescriptions", tags=["Prescriptions"])
 

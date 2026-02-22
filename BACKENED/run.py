@@ -1,5 +1,5 @@
 import uvicorn
-from app.config import settings
+from config import settings
 
 
 def main():

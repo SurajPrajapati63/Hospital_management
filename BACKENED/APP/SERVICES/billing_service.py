@@ -3,7 +3,7 @@ from typing import List, Optional, Dict, Any
 from bson import ObjectId
 
 from app.database import db
-from schemas.billing_schema import BillingCreate, BillingUpdate
+from app.schemas.billing_schema import BillingCreate, BillingUpdate
 
 
 # ==========================================

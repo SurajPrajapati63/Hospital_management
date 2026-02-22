@@ -2,8 +2,8 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from typing import Optional
 
-from BACKENED.app.config import settings
-from utils.logger import get_logger
+from app.config import settings
+from app.utils.logger import get_logger
 
 
 logger = get_logger(__name__)

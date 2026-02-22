@@ -2,7 +2,7 @@ from datetime import datetime
 from typing import List, Optional
 
 from app.database import db
-from schemas.appointment_schema import (
+from app.schemas.appointment_schema import (
     AppointmentCreate,
     AppointmentUpdate,
     AppointmentFilter,

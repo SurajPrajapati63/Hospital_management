@@ -3,7 +3,7 @@ from typing import List, Optional, Dict, Any
 from bson import ObjectId
 
 from app.database import db
-from schemas.patient_schema import (
+from app.schemas.patient_schema import (
     PatientCreate,
     PatientUpdate,
     PatientFilter,

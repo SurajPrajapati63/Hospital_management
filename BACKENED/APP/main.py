@@ -7,10 +7,10 @@ import time
 
 from app.config import settings
 from app.database import connect_to_database, close_database_connection, check_database_health
-from utils.logger import get_logger
+from app.utils.logger import get_logger
 
 # Routers
-from routers import (
+from app.routers import (
     auth,
     patients,
     doctors,

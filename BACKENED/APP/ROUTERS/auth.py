@@ -14,15 +14,15 @@ from app.schemas.auth_schema import (
     UserResponse,
 )
 
-from app.services.auth_service import (
-    register_user,
-    authenticate_user,
-    refresh_access_token,
-    get_current_user_service,
-    request_password_reset,
-    confirm_password_reset,
-    change_user_password,
-)
+# from services.auth_services import (
+#     register_user,
+#     authenticate_user,
+#     refresh_access_token,
+#     get_current_user_service,
+#     request_password_reset,
+#     confirm_password_reset,
+#     change_user_password,
+# )
 
 from app.utils.jwt_handler import verify_token
 

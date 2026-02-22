@@ -16,14 +16,12 @@ from app.schemas.ai_schema import (
     AIResponseType,
 )
 
-from app.ai.medical_assistant import process_chat
-from app.ai.report_summarizer import summarize_report
-from app.ai.prescription_explainer import explain_prescription
-from app.ai.anomaly_detector import detect_anomalies
-from app.ai.analytics_engine import generate_analytics
-from app.ai.memory import save_memory_entry
+# from app.AI.report_summarizer import summarize_report
+from app.AI.anomaly_detector import detect_anomalies
 
-router = APIRouter(prefix="/ai", tags=["AI"])
+from app.AI.memory import save_memory_entry
+
+router = APIRouter(prefix=".AI", tags=["AI"])
 
 
 # ===============================

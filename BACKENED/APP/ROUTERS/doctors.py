@@ -12,17 +12,17 @@ from app.schemas.doctor_schema import (
     DoctorStatus,
 )
 
-from app.services.doctor_service import (
-    create_doctor,
-    get_doctor_by_id,
-    get_all_doctors,
-    update_doctor,
-    delete_doctor,
-    update_doctor_status,
-    add_doctor_availability,
-    get_doctor_availability,
-    get_doctor_statistics,
-)
+# from app.services.doctor_service import (
+#     create_doctor,
+#     get_doctor_by_id,
+#     get_all_doctors,
+#     update_doctor,
+#     delete_doctor,
+#     update_doctor_status,
+#     add_doctor_availability,
+#     get_doctor_availability,
+#     get_doctor_statistics,
+# )
 
 router = APIRouter(prefix="/doctors", tags=["Doctors"])
 
