@@ -26,7 +26,6 @@ from app.routers import (
 
 app = FastAPI(
     title=settings.APP_NAME,
-    version=settings.APP_VERSION,
     debug=settings.DEBUG,
 )
 
@@ -52,13 +51,13 @@ app.add_middleware(
 
 @app.on_event("startup")
 async def startup():
-    logger.info("🚀 Starting application...")
+    logger.info(" Starting application...")
     connect_to_database()
 
 
 @app.on_event("shutdown")
 async def shutdown():
-    logger.info("🛑 Shutting down application...")
+    logger.info(" Shutting down application...")
     close_database_connection()
 
 

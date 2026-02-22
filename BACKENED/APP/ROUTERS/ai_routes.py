@@ -17,11 +17,11 @@ from app.schemas.ai_schema import (
 )
 
 # from app.AI.report_summarizer import summarize_report
-from app.AI.anomaly_detector import detect_anomalies
+from app.AI.anomaly_detector import AnomalyDetectionService
 
-from app.AI.memory import save_memory_entry
+from app.AI.memory import AIMemoryStore
 
-router = APIRouter(prefix=".AI", tags=["AI"])
+router = APIRouter(prefix="/.AI", tags=["AI"])
 
 
 # ===============================

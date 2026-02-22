@@ -1,7 +1,7 @@
 # memory.py
 
 from typing import List
-from ..SCHEMAS.ai_schema import AIMemoryEntry
+from ..schemas.ai_schema import AIMemoryEntry
 
 
 class AIMemoryStore:

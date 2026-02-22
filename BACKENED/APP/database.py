@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from typing import Optional
-
+import certifi
 from app.config import settings
 from app.utils.logger import get_logger
 
@@ -20,18 +20,20 @@ def connect_to_database():
     global client, db
 
     try:
-        client = MongoClient(settings.MONGO_URI)
-        db = client[settings.DATABASE_NAME]
+        client = MongoClient(settings.MONGO_URI,
+            tls=True,
+            tlsCAFile=certifi.where())
+        db = client[settings.MONGO_DB_NAME]
 
         # Test connection
         client.admin.command("ping")
 
-        logger.info("✅ MongoDB connected successfully")
+        logger.info(" MongoDB connected successfully")
 
         create_indexes()
 
     except ConnectionFailure as e:
-        logger.error(f"❌ MongoDB connection failed: {e}")
+        logger.error(f" MongoDB connection failed: {e}")
         raise e
 
 
@@ -40,7 +42,7 @@ def close_database_connection():
 
     if client:
         client.close()
-        logger.info("🔒 MongoDB connection closed")
+        logger.info(" MongoDB connection closed")
 
 
 # ==========================================
@@ -74,7 +76,7 @@ def create_indexes():
     # Users
     db.users.create_index("email", unique=True)
 
-    logger.info("📌 MongoDB indexes created successfully")
+    logger.info(" MongoDB indexes created successfully")
 
 
 # ==========================================

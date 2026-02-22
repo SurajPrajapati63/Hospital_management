@@ -1,6 +1,8 @@
 import os
 from pathlib import Path
 from dotenv import load_dotenv
+from typing import List
+
 
 
 # =========================
@@ -26,14 +28,22 @@ class Settings:
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     # AI Provider
     LLM_PROVIDER: str = os.getenv("LLM_PROVIDER", "gemini")
+    ALLOWED_ORIGINS: List[str] = os.getenv(
+        "ALLOWED_ORIGINS",
+        "http://localhost,http://localhost:3000"
+    ).split(",")
+    ALLOWED_METHODS: List[str] = ["*"]  # allow all HTTP methods
 
+    ALLOWED_HEADERS: List[str] = ["*"]
+    
     # API Keys (optional)
     GEMINI_API_KEY: str | None = os.getenv("GEMINI_API_KEY")
     OPENAI_API_KEY: str | None = os.getenv("OPENAI_API_KEY")
     # Database
     DATABASE_URL: str = os.getenv("DATABASE_URL", "sqlite:///./hospital.db")
 
-
+    MONGO_URI: str = os.getenv("MONGO_URI", "MONGO_URI=mongodb+srv://Cabdb:Cab@clustername.mongodb.net/hospital_db?retryWrites=true&w=majority")
+    MONGO_DB_NAME: str = os.getenv("MONGO_DB_NAME", "hospital_db")
 settings = Settings()
 
 
