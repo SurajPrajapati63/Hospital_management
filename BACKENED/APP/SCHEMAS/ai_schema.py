@@ -3,6 +3,10 @@ from typing import List, Optional, Dict, Any
 from enum import Enum
 
 
+# =========================
+# ENUMS
+# =========================
+
 class UserRole(str, Enum):
     patient = "patient"
     doctor = "doctor"
@@ -16,25 +20,56 @@ class AIResponseType(str, Enum):
     anomaly = "anomaly"
     analytics = "analytics"
 
+
+# =========================
+# SAFETY
+# =========================
+
+class AISafetyMeta(BaseModel):
+    restricted_content: bool
+    reason: Optional[str] = None
+
+
+# =========================
+# CHAT
+# =========================
+
 class AIChatRequest(BaseModel):
     user_id: int
     role: UserRole
     session_id: Optional[str] = None
     message: str = Field(..., min_length=2)
-    context: Optional[Dict[str, Any]] = None  # optional metadata
+    context: Optional[Dict[str, Any]] = None
+
 
 class AIChatResponse(BaseModel):
     response: str
     response_type: AIResponseType
+    safety: Optional[AISafetyMeta] = None
     sources: Optional[List[str]] = None
     confidence_score: Optional[float] = None
     timestamp: Optional[str] = None
 
+
+class AIStreamChunk(BaseModel):
+    chunk: str
+    done: bool
+
+
+# =========================
+# RAG
+# =========================
+
 class RAGSource(BaseModel):
     document_name: str
-    page_number: Optional[int]
+    page_number: Optional[int] = None
     snippet: str
     score: float
+
+
+# =========================
+# REPORT SUMMARY
+# =========================
 
 class ReportSummaryRequest(BaseModel):
     report_text: str
@@ -43,8 +78,13 @@ class ReportSummaryRequest(BaseModel):
 
 class ReportSummaryResponse(BaseModel):
     summary: str
-    key_findings: Optional[List[str]]
-    risk_level: Optional[str]
+    key_findings: Optional[List[str]] = None
+    risk_level: Optional[str] = None
+
+
+# =========================
+# PRESCRIPTION EXPLANATION
+# =========================
 
 class PrescriptionExplanationRequest(BaseModel):
     prescription_text: str
@@ -53,8 +93,13 @@ class PrescriptionExplanationRequest(BaseModel):
 
 class PrescriptionExplanationResponse(BaseModel):
     explanation: str
-    warnings: Optional[List[str]]
-    side_effects: Optional[List[str]]
+    warnings: Optional[List[str]] = None
+    side_effects: Optional[List[str]] = None
+
+
+# =========================
+# ANOMALY DETECTION
+# =========================
 
 class AnomalyDetectionRequest(BaseModel):
     patient_id: int
@@ -63,9 +108,14 @@ class AnomalyDetectionRequest(BaseModel):
 
 class AnomalyDetectionResponse(BaseModel):
     anomalies_detected: bool
-    flagged_parameters: Optional[List[str]]
-    severity_level: Optional[str]
-    explanation: Optional[str]
+    flagged_parameters: Optional[List[str]] = None
+    severity_level: Optional[str] = None
+    explanation: Optional[str] = None
+
+
+# =========================
+# ANALYTICS AI
+# =========================
 
 class AnalyticsAIRequest(BaseModel):
     query: str
@@ -74,8 +124,13 @@ class AnalyticsAIRequest(BaseModel):
 
 class AnalyticsAIResponse(BaseModel):
     answer: str
-    chart_data: Optional[Dict[str, Any]]
-    insights: Optional[List[str]]
+    chart_data: Optional[Dict[str, Any]] = None
+    insights: Optional[List[str]] = None
+
+
+# =========================
+# MEMORY
+# =========================
 
 class AIMemoryEntry(BaseModel):
     session_id: str
@@ -83,19 +138,3 @@ class AIMemoryEntry(BaseModel):
     message: str
     response: str
     timestamp: str
-
-class AISafetyMeta(BaseModel):
-    restricted_content: bool
-    reason: Optional[str]
-
-class AIChatResponse(BaseModel):
-    response: str
-    response_type: AIResponseType
-    safety: Optional[AISafetyMeta]
-    sources: Optional[List[str]]
-    confidence_score: Optional[float]
-    timestamp: Optional[str]
-
-class AIStreamChunk(BaseModel):
-    chunk: str
-    done: bool

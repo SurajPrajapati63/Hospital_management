@@ -1,810 +1,27 @@
 [
     {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
+        "label": "google.generativeai",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "pydantic",
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
         "documentation": {}
     },
     {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
+        "label": "settings",
+        "importPath": "APP.config",
+        "description": "APP.config",
         "isExtraImport": true,
-        "detail": "pydantic",
+        "detail": "APP.config",
         "documentation": {}
     },
     {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Field",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Field",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "EmailStr",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Field",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "validator",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "EmailStr",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Field",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "validator",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "EmailStr",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Field",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "validator",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "BaseModel",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "EmailStr",
-        "importPath": "pydantic",
-        "description": "pydantic",
-        "isExtraImport": true,
-        "detail": "pydantic",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
+        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -1029,6 +246,822 @@
         "description": "datetime",
         "isExtraImport": true,
         "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
         "documentation": {}
     },
     {
@@ -2858,14 +2891,6 @@
         "documentation": {}
     },
     {
-        "label": "RotatingFileHandler",
-        "importPath": "logging.handlers",
-        "description": "logging.handlers",
-        "isExtraImport": true,
-        "detail": "logging.handlers",
-        "documentation": {}
-    },
-    {
         "label": "MongoClient",
         "importPath": "pymongo",
         "description": "pymongo",
@@ -3033,6 +3058,30 @@
         "importPath": "uvicorn",
         "description": "uvicorn",
         "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalAssistantService",
+        "importPath": "APP.AI.medical_assitant",
+        "description": "APP.AI.medical_assitant",
+        "isExtraImport": true,
+        "detail": "APP.AI.medical_assitant",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatRequest",
+        "importPath": "APP.SCHEMAS.ai_schema",
+        "description": "APP.SCHEMAS.ai_schema",
+        "isExtraImport": true,
+        "detail": "APP.SCHEMAS.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "APP.SCHEMAS.ai_schema",
+        "description": "APP.SCHEMAS.ai_schema",
+        "isExtraImport": true,
+        "detail": "APP.SCHEMAS.ai_schema",
         "documentation": {}
     },
     {
@@ -3285,6 +3334,78 @@
         "documentation": {}
     },
     {
+        "label": "AIAgent",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.agent_tools",
+        "description": "BACKENED.app.AI.agent_tools",
+        "peekOfCode": "class AIAgent:\n    def __init__(self):\n        self.chat = MedicalAssistantService()\n        self.summarizer = ReportSummarizerService()\n        self.prescription = PrescriptionService()\n        self.anomaly = AnomalyDetectionService()",
+        "detail": "BACKENED.app.AI.agent_tools",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionService",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.anomaly_detector",
+        "description": "BACKENED.app.AI.anomaly_detector",
+        "peekOfCode": "class AnomalyDetectionService:\n    def detect(self, request: AnomalyDetectionRequest) -> AnomalyDetectionResponse:\n        flagged = []\n        for key, value in request.lab_values.items():\n            if value > 100:   # example threshold\n                flagged.append(key)\n        return AnomalyDetectionResponse(\n            anomalies_detected=len(flagged) > 0,\n            flagged_parameters=flagged,\n            severity_level=\"High\" if flagged else \"Normal\",",
+        "detail": "BACKENED.app.AI.anomaly_detector",
+        "documentation": {}
+    },
+    {
+        "label": "LLMProvider",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.llm_provider",
+        "description": "BACKENED.app.AI.llm_provider",
+        "peekOfCode": "class LLMProvider:\n    def __init__(self):\n        # Configure Gemini\n        genai.configure(api_key=settings.GEMINI_API_KEY)\n        self.model = genai.GenerativeModel(\"gemini-2.5-flash\")\n    def generate_response(\n        self,\n        prompt: str,\n        system_message: str,\n        temperature: float = 0.3,",
+        "detail": "BACKENED.app.AI.llm_provider",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalAssistantService",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.medical_assitant",
+        "description": "BACKENED.app.AI.medical_assitant",
+        "peekOfCode": "class MedicalAssistantService:\n    def __init__(self):\n        self.llm = LLMProvider()\n        self.memory_store = AIMemoryStore()\n    def _build_system_prompt(self, role: str) -> str:\n        \"\"\"\n        Role-based medical instruction\n        \"\"\"\n        base_prompt = \"\"\"\n        You are a professional hospital AI assistant.",
+        "detail": "BACKENED.app.AI.medical_assitant",
+        "documentation": {}
+    },
+    {
+        "label": "AIMemoryStore",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.memory",
+        "description": "BACKENED.app.AI.memory",
+        "peekOfCode": "class AIMemoryStore:\n    def __init__(self):\n        self.memory: List[AIMemoryEntry] = []\n    def add_entry(self, entry: AIMemoryEntry):\n        self.memory.append(entry)\n    def get_session_memory(self, session_id: str):\n        return [m for m in self.memory if m.session_id == session_id]",
+        "detail": "BACKENED.app.AI.memory",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionService",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.prescription",
+        "description": "BACKENED.app.AI.prescription",
+        "peekOfCode": "class PrescriptionService:\n    def __init__(self):\n        self.llm = LLMProvider()\n    def explain(self, request: PrescriptionExplanationRequest) -> PrescriptionExplanationResponse:\n        system_message = \"\"\"\n        You are a medical prescription explanation assistant.\n        Explain clearly.\n        Include warnings and side effects.\n        \"\"\"\n        prompt = f\"\"\"",
+        "detail": "BACKENED.app.AI.prescription",
+        "documentation": {}
+    },
+    {
+        "label": "RAGEngine",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.rag_engine",
+        "description": "BACKENED.app.AI.rag_engine",
+        "peekOfCode": "class RAGEngine:\n    def __init__(self):\n        self.llm = LLMProvider()\n    def query(self, question: str):\n        sources = [\n            RAGSource(\n                document_name=\"cardiology_guidelines.pdf\",\n                page_number=12,\n                snippet=\"Hypertension treatment includes ACE inhibitors...\",\n                score=0.87",
+        "detail": "BACKENED.app.AI.rag_engine",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummarizerService",
+        "kind": 6,
+        "importPath": "BACKENED.app.AI.report_summarizer",
+        "description": "BACKENED.app.AI.report_summarizer",
+        "peekOfCode": "class ReportSummarizerService:\n    def __init__(self):\n        self.llm = LLMProvider()\n    def summarize(self, request: ReportSummaryRequest) -> ReportSummaryResponse:\n        system_message = \"\"\"\n        You are a medical report summarization AI.\n        Extract key findings and assess risk level.\n        \"\"\"\n        prompt = f\"\"\"\n        Summarize this medical report for a {request.role}:",
+        "detail": "BACKENED.app.AI.report_summarizer",
+        "documentation": {}
+    },
+    {
         "label": "Appointment",
         "kind": 6,
         "importPath": "BACKENED.app.models.appointment_model",
@@ -3424,115 +3545,7 @@
         "kind": 6,
         "importPath": "BACKENED.app.schemas.ai_schema",
         "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AIResponseType(str, Enum):\n    chat = \"chat\"\n    summary = \"summary\"\n    explanation = \"explanation\"\n    anomaly = \"anomaly\"\n    analytics = \"analytics\"\nclass AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AIChatRequest",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None\n    message: str = Field(..., min_length=2)\n    context: Optional[Dict[str, Any]] = None  # optional metadata\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    sources: Optional[List[str]] = None",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AIChatResponse",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    sources: Optional[List[str]] = None\n    confidence_score: Optional[float] = None\n    timestamp: Optional[str] = None\nclass RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int]\n    snippet: str",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "RAGSource",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int]\n    snippet: str\n    score: float\nclass ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "ReportSummaryRequest",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]]\n    risk_level: Optional[str]\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "ReportSummaryResponse",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]]\n    risk_level: Optional[str]\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "PrescriptionExplanationRequest",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]\n    side_effects: Optional[List[str]]\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "PrescriptionExplanationResponse",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]]\n    side_effects: Optional[List[str]]\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AnomalyDetectionRequest",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]\n    severity_level: Optional[str]\n    explanation: Optional[str]\nclass AnalyticsAIRequest(BaseModel):\n    query: str",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AnomalyDetectionResponse",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]]\n    severity_level: Optional[str]\n    explanation: Optional[str]\nclass AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AnalyticsAIRequest",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]]\n    insights: Optional[List[str]]\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AnalyticsAIResponse",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]]\n    insights: Optional[List[str]]\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str",
-        "detail": "BACKENED.app.schemas.ai_schema",
-        "documentation": {}
-    },
-    {
-        "label": "AIMemoryEntry",
-        "kind": 6,
-        "importPath": "BACKENED.app.schemas.ai_schema",
-        "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str\nclass AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str]\nclass AIChatResponse(BaseModel):",
+        "peekOfCode": "class AIResponseType(str, Enum):\n    chat = \"chat\"\n    summary = \"summary\"\n    explanation = \"explanation\"\n    anomaly = \"anomaly\"\n    analytics = \"analytics\"\n# =========================\n# SAFETY\n# =========================\nclass AISafetyMeta(BaseModel):",
         "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
@@ -3541,7 +3554,16 @@
         "kind": 6,
         "importPath": "BACKENED.app.schemas.ai_schema",
         "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str]\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta]\n    sources: Optional[List[str]]\n    confidence_score: Optional[float]\n    timestamp: Optional[str]",
+        "peekOfCode": "class AISafetyMeta(BaseModel):\n    restricted_content: bool\n    reason: Optional[str] = None\n# =========================\n# CHAT\n# =========================\nclass AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIChatRequest",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class AIChatRequest(BaseModel):\n    user_id: int\n    role: UserRole\n    session_id: Optional[str] = None\n    message: str = Field(..., min_length=2)\n    context: Optional[Dict[str, Any]] = None\nclass AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta] = None",
         "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
@@ -3550,7 +3572,7 @@
         "kind": 6,
         "importPath": "BACKENED.app.schemas.ai_schema",
         "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta]\n    sources: Optional[List[str]]\n    confidence_score: Optional[float]\n    timestamp: Optional[str]\nclass AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
+        "peekOfCode": "class AIChatResponse(BaseModel):\n    response: str\n    response_type: AIResponseType\n    safety: Optional[AISafetyMeta] = None\n    sources: Optional[List[str]] = None\n    confidence_score: Optional[float] = None\n    timestamp: Optional[str] = None\nclass AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
         "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
@@ -3559,7 +3581,97 @@
         "kind": 6,
         "importPath": "BACKENED.app.schemas.ai_schema",
         "description": "BACKENED.app.schemas.ai_schema",
-        "peekOfCode": "class AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool",
+        "peekOfCode": "class AIStreamChunk(BaseModel):\n    chunk: str\n    done: bool\n# =========================\n# RAG\n# =========================\nclass RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int] = None\n    snippet: str",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RAGSource",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class RAGSource(BaseModel):\n    document_name: str\n    page_number: Optional[int] = None\n    snippet: str\n    score: float\n# =========================\n# REPORT SUMMARY\n# =========================\nclass ReportSummaryRequest(BaseModel):\n    report_text: str",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummaryRequest",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class ReportSummaryRequest(BaseModel):\n    report_text: str\n    role: UserRole\nclass ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]] = None\n    risk_level: Optional[str] = None\n# =========================\n# PRESCRIPTION EXPLANATION\n# =========================",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ReportSummaryResponse",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class ReportSummaryResponse(BaseModel):\n    summary: str\n    key_findings: Optional[List[str]] = None\n    risk_level: Optional[str] = None\n# =========================\n# PRESCRIPTION EXPLANATION\n# =========================\nclass PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationRequest",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class PrescriptionExplanationRequest(BaseModel):\n    prescription_text: str\n    role: UserRole\nclass PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]] = None\n    side_effects: Optional[List[str]] = None\n# =========================\n# ANOMALY DETECTION\n# =========================",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PrescriptionExplanationResponse",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class PrescriptionExplanationResponse(BaseModel):\n    explanation: str\n    warnings: Optional[List[str]] = None\n    side_effects: Optional[List[str]] = None\n# =========================\n# ANOMALY DETECTION\n# =========================\nclass AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionRequest",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class AnomalyDetectionRequest(BaseModel):\n    patient_id: int\n    lab_values: Dict[str, float]\nclass AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]] = None\n    severity_level: Optional[str] = None\n    explanation: Optional[str] = None\n# =========================\n# ANALYTICS AI",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnomalyDetectionResponse",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class AnomalyDetectionResponse(BaseModel):\n    anomalies_detected: bool\n    flagged_parameters: Optional[List[str]] = None\n    severity_level: Optional[str] = None\n    explanation: Optional[str] = None\n# =========================\n# ANALYTICS AI\n# =========================\nclass AnalyticsAIRequest(BaseModel):\n    query: str",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsAIRequest",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class AnalyticsAIRequest(BaseModel):\n    query: str\n    role: UserRole\nclass AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]] = None\n    insights: Optional[List[str]] = None\n# =========================\n# MEMORY\n# =========================",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyticsAIResponse",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class AnalyticsAIResponse(BaseModel):\n    answer: str\n    chart_data: Optional[Dict[str, Any]] = None\n    insights: Optional[List[str]] = None\n# =========================\n# MEMORY\n# =========================\nclass AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int",
+        "detail": "BACKENED.app.schemas.ai_schema",
+        "documentation": {}
+    },
+    {
+        "label": "AIMemoryEntry",
+        "kind": 6,
+        "importPath": "BACKENED.app.schemas.ai_schema",
+        "description": "BACKENED.app.schemas.ai_schema",
+        "peekOfCode": "class AIMemoryEntry(BaseModel):\n    session_id: str\n    user_id: int\n    message: str\n    response: str\n    timestamp: str",
         "detail": "BACKENED.app.schemas.ai_schema",
         "documentation": {}
     },
@@ -4131,24 +4243,6 @@
         "documentation": {}
     },
     {
-        "label": "get_logger",
-        "kind": 2,
-        "importPath": "BACKENED.app.config",
-        "description": "BACKENED.app.config",
-        "peekOfCode": "def get_logger(name: str) -> logging.Logger:\n    \"\"\"\n    Create and return a configured logger.\n    \"\"\"\n    logger = logging.getLogger(name)\n    logger.setLevel(logging.INFO)\n    if logger.handlers:\n        return logger  # Prevent duplicate handlers\n    # Log format\n    formatter = logging.Formatter(",
-        "detail": "BACKENED.app.config",
-        "documentation": {}
-    },
-    {
-        "label": "LOG_DIR",
-        "kind": 5,
-        "importPath": "BACKENED.app.config",
-        "description": "BACKENED.app.config",
-        "peekOfCode": "LOG_DIR = \"logs\"\nif not os.path.exists(LOG_DIR):\n    os.makedirs(LOG_DIR)\n# ==========================================\n# ⚙️ LOGGER CONFIGURATION\n# ==========================================\ndef get_logger(name: str) -> logging.Logger:\n    \"\"\"\n    Create and return a configured logger.\n    \"\"\"",
-        "detail": "BACKENED.app.config",
-        "documentation": {}
-    },
-    {
         "label": "connect_to_database",
         "kind": 2,
         "importPath": "BACKENED.app.database",
@@ -4227,6 +4321,15 @@
         "description": "BACKENED.run",
         "peekOfCode": "def main():\n    \"\"\"\n    Entry point to run FastAPI application.\n    \"\"\"\n    uvicorn.run(\n        \"main:app\",\n        host=\"0.0.0.0\",\n        port=8000,\n        reload=settings.DEBUG,\n        log_level=\"info\",",
         "detail": "BACKENED.run",
+        "documentation": {}
+    },
+    {
+        "label": "test_chat",
+        "kind": 2,
+        "importPath": "BACKENED.test",
+        "description": "BACKENED.test",
+        "peekOfCode": "def test_chat():\n    assistant = MedicalAssistantService()\n    request = AIChatRequest(\n        user_id=1,\n        role=UserRole.patient,\n        session_id=\"test-session\",\n        message=\"What are symptoms of diabetes?\",\n        context=None\n    )\n    response = assistant.chat(request)",
+        "detail": "BACKENED.test",
         "documentation": {}
     },
     {
