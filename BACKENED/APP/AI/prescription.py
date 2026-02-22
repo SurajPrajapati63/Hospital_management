@@ -1,7 +1,7 @@
 # prescription.py
 
 from .llm_provider import LLMProvider
-from ..SCHEMAS.ai_schema import (
+from ..schemas.ai_schema import (
     PrescriptionExplanationRequest,
     PrescriptionExplanationResponse
 )

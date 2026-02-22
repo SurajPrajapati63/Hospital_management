@@ -30,7 +30,7 @@ router = APIRouter(prefix="/billing", tags=["Billing"])
 @router.post("/", response_model=BillingResponse, status_code=status.HTTP_201_CREATED)
 async def create(payload: BillingCreate):
     try:
-        return await create_bill(payload)
+        return create_bill(payload)
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
 
@@ -39,8 +39,8 @@ async def create(payload: BillingCreate):
 # 📄 GET BILL BY ID
 # ==================================
 @router.get("/{bill_id}", response_model=BillingResponse)
-async def get_by_id(bill_id: int):
-    bill = await get_bill_by_id(bill_id)
+async def get_by_id(bill_id: str):
+    bill = get_bill_by_id(bill_id)
     if not bill:
         raise HTTPException(status_code=404, detail="Bill not found")
     return bill
@@ -51,13 +51,13 @@ async def get_by_id(bill_id: int):
 # ==================================
 @router.get("/", response_model=List[BillingResponse])
 async def get_all(
-    patient_id: Optional[int] = None,
+    patient_id: Optional[str] = None,
     status: Optional[str] = None,
     start_date: Optional[datetime] = None,
     end_date: Optional[datetime] = None,
 ):
     try:
-        return await get_all_bills(
+        return get_all_bills(
             patient_id=patient_id,
             status=status,
             start_date=start_date,
@@ -71,16 +71,16 @@ async def get_all(
 # 👤 GET PATIENT BILLS
 # ==================================
 @router.get("/patient/{patient_id}", response_model=List[BillingResponse])
-async def patient_bills(patient_id: int):
-    return await get_patient_bills(patient_id)
+async def patient_bills(patient_id: str):
+    return get_patient_bills(patient_id)
 
 
 # ==================================
 # ✏ UPDATE BILL
 # ==================================
 @router.put("/{bill_id}", response_model=BillingResponse)
-async def update(bill_id: int, payload: BillingUpdate):
-    updated = await update_bill(bill_id, payload)
+async def update(bill_id: str, payload: BillingUpdate):
+    updated = update_bill(bill_id, payload)
     if not updated:
         raise HTTPException(status_code=404, detail="Bill not found")
     return updated
@@ -90,8 +90,8 @@ async def update(bill_id: int, payload: BillingUpdate):
 # ✅ MARK BILL AS PAID
 # ==================================
 @router.patch("/{bill_id}/pay", response_model=BillingResponse)
-async def pay_bill(bill_id: int):
-    paid = await mark_bill_paid(bill_id)
+async def pay_bill(bill_id: str):
+    paid = mark_bill_paid(bill_id)
     if not paid:
         raise HTTPException(status_code=404, detail="Bill not found")
     return paid
@@ -101,8 +101,8 @@ async def pay_bill(bill_id: int):
 # 🔁 REFUND BILL
 # ==================================
 @router.patch("/{bill_id}/refund", response_model=BillingResponse)
-async def refund(bill_id: int):
-    refunded = await refund_bill(bill_id)
+async def refund(bill_id: str):
+    refunded = refund_bill(bill_id)
     if not refunded:
         raise HTTPException(status_code=404, detail="Bill not found")
     return refunded
@@ -112,8 +112,8 @@ async def refund(bill_id: int):
 # 🗑 DELETE BILL
 # ==================================
 @router.delete("/{bill_id}", status_code=status.HTTP_204_NO_CONTENT)
-async def delete(bill_id: int):
-    deleted = await delete_bill(bill_id)
+async def delete(bill_id: str):
+    deleted = delete_bill(bill_id)
     if not deleted:
         raise HTTPException(status_code=404, detail="Bill not found")
     return None
@@ -124,4 +124,4 @@ async def delete(bill_id: int):
 # ==================================
 @router.get("/stats/overview", response_model=BillingStatsResponse)
 async def billing_stats():
-    return await get_billing_statistics()
+    return get_billing_statistics()

@@ -22,7 +22,7 @@ logger = get_logger(__name__)
 # ==========================================
 # 👤 REGISTER USER
 # ==========================================
-async def register_user(payload: UserRegister):
+def register_user(payload: UserRegister):
 
     existing_user = db.users.find_one({"email": payload.email})
     if existing_user:
@@ -68,7 +68,7 @@ async def register_user(payload: UserRegister):
 # ==========================================
 # 🔐 LOGIN USER
 # ==========================================
-async def login_user(payload: UserLogin):
+def login_user(payload: UserLogin):
 
     user = db.users.find_one({"email": payload.email})
     if not user:
@@ -106,7 +106,7 @@ async def login_user(payload: UserLogin):
 # ==========================================
 # 🔁 REFRESH ACCESS TOKEN
 # ==========================================
-async def refresh_access(refresh_token: str):
+def refresh_access(refresh_token: str):
 
     payload = verify_token(refresh_token, token_type="refresh")
 
@@ -125,7 +125,7 @@ async def refresh_access(refresh_token: str):
 # ==========================================
 # 🧑 GET CURRENT USER
 # ==========================================
-async def get_user_by_id(user_id: str):
+def get_user_by_id(user_id: str):
 
     user = db.users.find_one({"_id": ObjectId(user_id)})
     if not user:

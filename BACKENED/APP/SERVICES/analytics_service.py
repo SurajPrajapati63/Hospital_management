@@ -8,7 +8,7 @@ from app.database import db
 # ==========================================
 # 📊 OVERALL DASHBOARD SUMMARY
 # ==========================================
-async def get_dashboard_overview() -> Dict[str, Any]:
+def get_dashboard_overview() -> Dict[str, Any]:
     total_patients = db.patients.count_documents({})
     total_doctors = db.doctors.count_documents({})
     total_appointments = db.appointments.count_documents({})
@@ -28,7 +28,7 @@ async def get_dashboard_overview() -> Dict[str, Any]:
 # ==========================================
 # 📅 MONTHLY APPOINTMENT TREND
 # ==========================================
-async def get_monthly_appointments() -> Dict[str, int]:
+def get_monthly_appointments() -> Dict[str, int]:
     monthly_data = defaultdict(int)
 
     for appt in db.appointments.find({}):
@@ -41,7 +41,7 @@ async def get_monthly_appointments() -> Dict[str, int]:
 # ==========================================
 # 💰 MONTHLY REVENUE TREND
 # ==========================================
-async def get_monthly_revenue() -> Dict[str, float]:
+def get_monthly_revenue() -> Dict[str, float]:
     revenue_data = defaultdict(float)
 
     for bill in db.billing.find({"payment_status": "paid"}):
@@ -54,12 +54,12 @@ async def get_monthly_revenue() -> Dict[str, float]:
 # ==========================================
 # 👨‍⚕️ DOCTOR PERFORMANCE
 # ==========================================
-async def get_doctor_performance() -> List[Dict[str, Any]]:
+def get_doctor_performance() -> List[Dict[str, Any]]:
     performance = []
 
     doctors = db.doctors.find({})
     for doctor in doctors:
-        doctor_id = doctor["id"]
+        doctor_id = str(doctor.get("_id", ""))
 
         total = db.appointments.count_documents({"doctor_id": doctor_id})
         completed = db.appointments.count_documents(
@@ -72,7 +72,7 @@ async def get_doctor_performance() -> List[Dict[str, Any]]:
         performance.append(
             {
                 "doctor_id": doctor_id,
-                "doctor_name": doctor["full_name"],
+                "doctor_name": doctor.get("full_name", "Unknown"),
                 "total_appointments": total,
                 "completed_appointments": completed,
                 "cancelled_appointments": cancelled,
@@ -85,7 +85,7 @@ async def get_doctor_performance() -> List[Dict[str, Any]]:
 # ==========================================
 # 👥 PATIENT GROWTH ANALYTICS
 # ==========================================
-async def get_patient_growth() -> Dict[str, int]:
+def get_patient_growth() -> Dict[str, int]:
     growth_data = defaultdict(int)
 
     for patient in db.patients.find({}):
@@ -98,7 +98,7 @@ async def get_patient_growth() -> Dict[str, int]:
 # ==========================================
 # ⚠ BILLING OUTSTANDING ANALYTICS
 # ==========================================
-async def get_outstanding_bills() -> Dict[str, Any]:
+def get_outstanding_bills() -> Dict[str, Any]:
     total_outstanding = 0
     pending_count = 0
 
@@ -115,10 +115,10 @@ async def get_outstanding_bills() -> Dict[str, Any]:
 # ==========================================
 # 📈 ADVANCED ANALYTICS (AI-READY)
 # ==========================================
-async def generate_analytics_summary() -> Dict[str, Any]:
-    overview = await get_dashboard_overview()
-    monthly_revenue = await get_monthly_revenue()
-    monthly_appointments = await get_monthly_appointments()
+def generate_analytics_summary() -> Dict[str, Any]:
+    overview = get_dashboard_overview()
+    monthly_revenue = get_monthly_revenue()
+    monthly_appointments = get_monthly_appointments()
 
     return {
         "overview": overview,

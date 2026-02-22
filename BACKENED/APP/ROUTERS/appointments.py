@@ -31,7 +31,7 @@ router = APIRouter(prefix="/appointments", tags=["Appointments"])
 @router.post("/", response_model=AppointmentResponse, status_code=status.HTTP_201_CREATED)
 async def create(payload: AppointmentCreate):
     try:
-        return await create_appointment(payload)
+        return create_appointment(payload)
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
 
@@ -41,8 +41,8 @@ async def create(payload: AppointmentCreate):
 # ==================================
 @router.get("/", response_model=List[AppointmentResponse])
 async def get_all(
-    doctor_id: Optional[int] = None,
-    patient_id: Optional[int] = None,
+    doctor_id: Optional[str] = None,
+    patient_id: Optional[str] = None,
     status: Optional[str] = None,
     start_date: Optional[datetime] = None,
     end_date: Optional[datetime] = None,
@@ -55,7 +55,7 @@ async def get_all(
             start_date=start_date,
             end_date=end_date,
         )
-        return await get_all_appointments(filters)
+        return get_all_appointments(filters)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -64,8 +64,8 @@ async def get_all(
 # 📌 GET APPOINTMENT BY ID
 # ==================================
 @router.get("/{appointment_id}", response_model=AppointmentDetail)
-async def get_by_id(appointment_id: int):
-    appointment = await get_appointment_by_id(appointment_id)
+async def get_by_id(appointment_id: str):
+    appointment = get_appointment_by_id(appointment_id)
     if not appointment:
         raise HTTPException(status_code=404, detail="Appointment not found")
     return appointment
@@ -75,8 +75,8 @@ async def get_by_id(appointment_id: int):
 # 📌 UPDATE APPOINTMENT
 # ==================================
 @router.put("/{appointment_id}", response_model=AppointmentResponse)
-async def update(appointment_id: int, payload: AppointmentUpdate):
-    updated = await update_appointment(appointment_id, payload)
+async def update(appointment_id: str, payload: AppointmentUpdate):
+    updated = update_appointment(appointment_id, payload)
     if not updated:
         raise HTTPException(status_code=404, detail="Appointment not found")
     return updated
@@ -86,8 +86,8 @@ async def update(appointment_id: int, payload: AppointmentUpdate):
 # ❌ CANCEL APPOINTMENT
 # ==================================
 @router.patch("/{appointment_id}/cancel", response_model=AppointmentResponse)
-async def cancel(appointment_id: int):
-    cancelled = await cancel_appointment(appointment_id)
+async def cancel(appointment_id: str):
+    cancelled = cancel_appointment(appointment_id)
     if not cancelled:
         raise HTTPException(status_code=404, detail="Appointment not found")
     return cancelled
@@ -97,8 +97,8 @@ async def cancel(appointment_id: int):
 # 🗑 DELETE APPOINTMENT
 # ==================================
 @router.delete("/{appointment_id}", status_code=status.HTTP_204_NO_CONTENT)
-async def delete(appointment_id: int):
-    deleted = await delete_appointment(appointment_id)
+async def delete(appointment_id: str):
+    deleted = delete_appointment(appointment_id)
     if not deleted:
         raise HTTPException(status_code=404, detail="Appointment not found")
     return None
@@ -108,13 +108,13 @@ async def delete(appointment_id: int):
 # 👤 PATIENT VIEW
 # ==================================
 @router.get("/patient/{patient_id}", response_model=List[AppointmentPatientView])
-async def patient_view(patient_id: int):
-    return await get_patient_appointments(patient_id)
+async def patient_view(patient_id: str):
+    return get_patient_appointments(patient_id)
 
 
 # ==================================
 # 👨‍⚕️ DOCTOR VIEW
 # ==================================
 @router.get("/doctor/{doctor_id}", response_model=List[AppointmentResponse])
-async def doctor_view(doctor_id: int):
-    return await get_doctor_appointments(doctor_id)
+async def doctor_view(doctor_id: str):
+    return get_doctor_appointments(doctor_id)

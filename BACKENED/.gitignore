@@ -1,0 +1,86 @@
+# ======================
+# ENV FILES (SENSITIVE - CRITICAL)
+# ======================
+.env
+.env.local
+.env.*.local
+*.env
+.env.example.bak
+
+# ======================
+# PYTHON
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ======================
+# VIRTUAL ENV
+# ======================
+.venv/
+venv/
+env/
+ENV/
+
+# ======================
+# LOGS
+# ======================
+logs/
+*.log
+
+# ======================
+# DATABASE
+# ======================
+*.sqlite3
+*.db
+*.sqlite
+hospital.db
+
+# ======================
+# OS FILES
+# ======================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# ======================
+# IDE
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ======================
+# TESTING
+# ======================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ======================
+# MISC
+# ======================
+*.pem
+*.key
+secrets/

@@ -15,26 +15,60 @@ logger = get_logger(__name__)
 client: Optional[MongoClient] = None
 db = None
 
+# Collection references (exported for use in models/services)
+patients = None
+doctors = None
+appointments = None
+prescriptions = None
+billing = None
+users = None
+reports = None
+ai_conversations = None
+
 
 def connect_to_database():
-    global client, db
+    global client, db, patients, doctors, appointments, prescriptions, billing, users, reports, ai_conversations
 
     try:
-        client = MongoClient(settings.MONGO_URI,
-            tls=True,
-            tlsCAFile=certifi.where())
+        # Check if using local MongoDB
+        is_local_mongo = "localhost" in settings.MONGO_URI or "127.0.0.1" in settings.MONGO_URI
+        
+        client = MongoClient(
+            settings.MONGO_URI,
+            tls=not is_local_mongo,  # TLS only for cloud MongoDB
+            tlsCAFile=certifi.where() if not is_local_mongo else None,
+            serverSelectionTimeoutMS=5000,  # 5 second timeout
+            connectTimeoutMS=5000
+        )
         db = client[settings.MONGO_DB_NAME]
+
+        # Initialize collection references
+        patients = db.patients
+        doctors = db.doctors
+        appointments = db.appointments
+        prescriptions = db.prescriptions
+        billing = db.billing
+        users = db.users
+        reports = db.reports
+        ai_conversations = db.ai_conversations
 
         # Test connection
         client.admin.command("ping")
 
-        logger.info(" MongoDB connected successfully")
-
+        logger.info("✅ MongoDB connected successfully")
         create_indexes()
 
     except ConnectionFailure as e:
-        logger.error(f" MongoDB connection failed: {e}")
-        raise e
+        logger.error(f"❌ MongoDB connection failed: {e}")
+        logger.warning("⚠️  Application starting without database. Please ensure MongoDB is running on localhost:27017")
+        # Don't raise - allow app to start anyway for development
+        client = None
+        db = None
+    except Exception as e:
+        logger.error(f"❌ Unexpected error connecting to MongoDB: {e}")
+        logger.warning("⚠️  Application starting without database. Please ensure MongoDB is running.")
+        client = None
+        db = None
 
 
 def close_database_connection():

@@ -3,7 +3,7 @@
 from datetime import datetime
 from .llm_provider import LLMProvider
 from .memory import AIMemoryStore
-from ..SCHEMAS.ai_schema import (
+from ..schemas.ai_schema import (
     AIChatRequest,
     AIChatResponse,
     AIResponseType,

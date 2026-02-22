@@ -22,6 +22,8 @@ load_dotenv(dotenv_path=ENV_PATH)
 class Settings:
     # App
     APP_NAME: str = "Hospital Management AI"
+    APP_VERSION: str = "1.0.0"
+    ENVIRONMENT: str = os.getenv("ENVIRONMENT", "development")
     DEBUG: bool = os.getenv("DEBUG", "False").lower() == "true"
     JWT_SECRET_KEY: str = os.getenv("JWT_SECRET_KEY", "9f8c1a4d9a3e7f8b4c2d6e5a1b3c9d7f6a2b8c4d1e9f7a6b3c2d4e5f6a7b8c9")
     JWT_ALGORITHM: str = "HS256"
@@ -42,7 +44,7 @@ class Settings:
     # Database
     DATABASE_URL: str = os.getenv("DATABASE_URL", "sqlite:///./hospital.db")
 
-    MONGO_URI: str = os.getenv("MONGO_URI", "MONGO_URI=mongodb+srv://Cabdb:Cab@clustername.mongodb.net/hospital_db?retryWrites=true&w=majority")
+    MONGO_URI: str = os.getenv("MONGO_URI", "mongodb://localhost:27017/hospital_db")
     MONGO_DB_NAME: str = os.getenv("MONGO_DB_NAME", "hospital_db")
 settings = Settings()
 

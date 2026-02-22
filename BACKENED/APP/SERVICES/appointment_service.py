@@ -12,7 +12,7 @@ from app.schemas.appointment_schema import (
 # ==========================================
 # 📌 CREATE APPOINTMENT
 # ==========================================
-async def create_appointment(payload: AppointmentCreate):
+def create_appointment(payload: AppointmentCreate):
 
     # Check doctor availability (basic example)
     conflict = db.appointments.find_one({
@@ -41,14 +41,14 @@ async def create_appointment(payload: AppointmentCreate):
 # ==========================================
 # 📌 GET APPOINTMENT BY ID
 # ==========================================
-async def get_appointment_by_id(appointment_id: int):
+def get_appointment_by_id(appointment_id: int):
     return db.appointments.find_one({"id": appointment_id})
 
 
 # ==========================================
 # 📌 GET ALL APPOINTMENTS WITH FILTER
 # ==========================================
-async def get_all_appointments(filters: AppointmentFilter):
+def get_all_appointments(filters: AppointmentFilter):
 
     query = {}
 
@@ -73,7 +73,7 @@ async def get_all_appointments(filters: AppointmentFilter):
 # ==========================================
 # ✏ UPDATE APPOINTMENT
 # ==========================================
-async def update_appointment(appointment_id: int, payload: AppointmentUpdate):
+def update_appointment(appointment_id: int, payload: AppointmentUpdate):
 
     update_data = {k: v for k, v in payload.dict().items() if v is not None}
     update_data["updated_at"] = datetime.utcnow()
@@ -92,7 +92,7 @@ async def update_appointment(appointment_id: int, payload: AppointmentUpdate):
 # ==========================================
 # ❌ CANCEL APPOINTMENT
 # ==========================================
-async def cancel_appointment(appointment_id: int):
+def cancel_appointment(appointment_id: int):
 
     result = db.appointments.update_one(
         {"id": appointment_id},
@@ -111,7 +111,7 @@ async def cancel_appointment(appointment_id: int):
 # ==========================================
 # 🗑 DELETE APPOINTMENT
 # ==========================================
-async def delete_appointment(appointment_id: int):
+def delete_appointment(appointment_id: int):
 
     result = db.appointments.delete_one({"id": appointment_id})
     return result.deleted_count > 0
@@ -120,7 +120,7 @@ async def delete_appointment(appointment_id: int):
 # ==========================================
 # 👤 GET PATIENT APPOINTMENTS
 # ==========================================
-async def get_patient_appointments(patient_id: int):
+def get_patient_appointments(patient_id: int):
 
     return list(db.appointments.find({"patient_id": patient_id}))
 
@@ -128,6 +128,6 @@ async def get_patient_appointments(patient_id: int):
 # ==========================================
 # 👨‍⚕️ GET DOCTOR APPOINTMENTS
 # ==========================================
-async def get_doctor_appointments(doctor_id: int):
+def get_doctor_appointments(doctor_id: int):
 
     return list(db.appointments.find({"doctor_id": doctor_id}))

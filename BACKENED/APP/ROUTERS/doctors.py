@@ -12,17 +12,17 @@ from app.schemas.doctor_schema import (
     DoctorStatus,
 )
 
-# from app.services.doctor_service import (
-#     create_doctor,
-#     get_doctor_by_id,
-#     get_all_doctors,
-#     update_doctor,
-#     delete_doctor,
-#     update_doctor_status,
-#     add_doctor_availability,
-#     get_doctor_availability,
-#     get_doctor_statistics,
-# )
+from app.services.doctor_service import (
+    create_doctor,
+    get_doctor_by_id,
+    get_all_doctors,
+    update_doctor,
+    delete_doctor,
+    update_doctor_status,
+    add_doctor_availability,
+    get_doctor_availability,
+    get_doctor_statistics,
+)
 
 router = APIRouter(prefix="/doctors", tags=["Doctors"])
 
@@ -33,7 +33,7 @@ router = APIRouter(prefix="/doctors", tags=["Doctors"])
 @router.post("/", response_model=DoctorResponse, status_code=status.HTTP_201_CREATED)
 async def create(payload: DoctorCreate):
     try:
-        return await create_doctor(payload)
+        return create_doctor(payload)
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
 
@@ -59,7 +59,7 @@ async def get_all(
             min_experience=min_experience,
             max_fee=max_fee,
         )
-        return await get_all_doctors(filters)
+        return get_all_doctors(filters)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -68,8 +68,8 @@ async def get_all(
 # 📄 GET DOCTOR BY ID
 # ==================================
 @router.get("/{doctor_id}", response_model=DoctorResponse)
-async def get_by_id(doctor_id: int):
-    doctor = await get_doctor_by_id(doctor_id)
+async def get_by_id(doctor_id: str):
+    doctor = get_doctor_by_id(doctor_id)
     if not doctor:
         raise HTTPException(status_code=404, detail="Doctor not found")
     return doctor
@@ -79,8 +79,8 @@ async def get_by_id(doctor_id: int):
 # ✏ UPDATE DOCTOR
 # ==================================
 @router.put("/{doctor_id}", response_model=DoctorResponse)
-async def update(doctor_id: int, payload: DoctorUpdate):
-    updated = await update_doctor(doctor_id, payload)
+async def update(doctor_id: str, payload: DoctorUpdate):
+    updated = update_doctor(doctor_id, payload)
     if not updated:
         raise HTTPException(status_code=404, detail="Doctor not found")
     return updated
@@ -90,8 +90,8 @@ async def update(doctor_id: int, payload: DoctorUpdate):
 # 🟢 UPDATE DOCTOR STATUS
 # ==================================
 @router.patch("/{doctor_id}/status", response_model=DoctorResponse)
-async def update_status(doctor_id: int, status_value: DoctorStatus):
-    updated = await update_doctor_status(doctor_id, status_value)
+async def update_status(doctor_id: str, status_value: DoctorStatus):
+    updated = update_doctor_status(doctor_id, status_value)
     if not updated:
         raise HTTPException(status_code=404, detail="Doctor not found")
     return updated
@@ -101,8 +101,8 @@ async def update_status(doctor_id: int, status_value: DoctorStatus):
 # 🗑 DELETE DOCTOR
 # ==================================
 @router.delete("/{doctor_id}", status_code=status.HTTP_204_NO_CONTENT)
-async def delete(doctor_id: int):
-    deleted = await delete_doctor(doctor_id)
+async def delete(doctor_id: str):
+    deleted = delete_doctor(doctor_id)
     if not deleted:
         raise HTTPException(status_code=404, detail="Doctor not found")
     return None
@@ -112,21 +112,21 @@ async def delete(doctor_id: int):
 # 🕒 ADD DOCTOR AVAILABILITY
 # ==================================
 @router.post("/{doctor_id}/availability", status_code=status.HTTP_201_CREATED)
-async def add_availability(doctor_id: int, payload: DoctorAvailability):
-    return await add_doctor_availability(doctor_id, payload)
+async def add_availability(doctor_id: str, payload: DoctorAvailability):
+    return add_doctor_availability(doctor_id, payload)
 
 
 # ==================================
 # 📅 GET DOCTOR AVAILABILITY
 # ==================================
 @router.get("/{doctor_id}/availability", response_model=List[DoctorAvailability])
-async def get_availability(doctor_id: int):
-    return await get_doctor_availability(doctor_id)
+async def get_availability(doctor_id: str):
+    return get_doctor_availability(doctor_id)
 
 
 # ==================================
 # 📊 DOCTOR STATISTICS
 # ==================================
 @router.get("/{doctor_id}/stats", response_model=DoctorStats)
-async def doctor_stats(doctor_id: int):
-    return await get_doctor_statistics(doctor_id)
+async def doctor_stats(doctor_id: str):
+    return get_doctor_statistics(doctor_id)

@@ -18,6 +18,7 @@ from app.routers import (
     billing,
     prescriptions,
     ai_routes,
+    analytics,
 )
 
 # ==========================================
@@ -123,6 +124,7 @@ app.include_router(appointments.router)
 app.include_router(billing.router)
 app.include_router(prescriptions.router)
 app.include_router(ai_routes.router)
+app.include_router(analytics.router)
 
 
 # ==========================================

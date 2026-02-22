@@ -1,7 +1,7 @@
 # rag_engine.py
 
 from .llm_provider import LLMProvider
-from ..SCHEMAS.ai_schema import RAGSource
+from ..schemas.ai_schema import RAGSource
 
 
 class RAGEngine:

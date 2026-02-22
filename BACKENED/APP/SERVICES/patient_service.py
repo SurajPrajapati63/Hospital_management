@@ -14,7 +14,7 @@ from app.schemas.patient_schema import (
 # ==========================================
 # 👤 CREATE PATIENT
 # ==========================================
-async def create_patient(payload: PatientCreate):
+def create_patient(payload: PatientCreate):
 
     patient_data = payload.dict()
 
@@ -33,7 +33,7 @@ async def create_patient(payload: PatientCreate):
 # ==========================================
 # 📄 GET PATIENT BY ID
 # ==========================================
-async def get_patient_by_id(patient_id: str):
+def get_patient_by_id(patient_id: str):
 
     patient = db.patients.find_one({"_id": ObjectId(patient_id)})
 
@@ -46,7 +46,7 @@ async def get_patient_by_id(patient_id: str):
 # ==========================================
 # 📋 GET ALL PATIENTS (FILTERABLE)
 # ==========================================
-async def get_all_patients(filters: PatientFilter):
+def get_all_patients(filters: PatientFilter):
 
     query = {}
 
@@ -82,7 +82,7 @@ async def get_all_patients(filters: PatientFilter):
 # ==========================================
 # ✏ UPDATE PATIENT
 # ==========================================
-async def update_patient(patient_id: str, payload: PatientUpdate):
+def update_patient(patient_id: str, payload: PatientUpdate):
 
     update_data = {k: v for k, v in payload.dict().items() if v is not None}
     update_data["updated_at"] = datetime.utcnow()
@@ -95,13 +95,13 @@ async def update_patient(patient_id: str, payload: PatientUpdate):
     if result.modified_count == 0:
         return None
 
-    return await get_patient_by_id(patient_id)
+    return get_patient_by_id(patient_id)
 
 
 # ==========================================
 # 🗑 DELETE PATIENT
 # ==========================================
-async def delete_patient(patient_id: str):
+def delete_patient(patient_id: str):
 
     result = db.patients.delete_one({"_id": ObjectId(patient_id)})
     return result.deleted_count > 0
@@ -110,7 +110,7 @@ async def delete_patient(patient_id: str):
 # ==========================================
 # 🩺 UPDATE MEDICAL HISTORY
 # ==========================================
-async def update_medical_history(patient_id: str, payload: MedicalHistory):
+def update_medical_history(patient_id: str, payload: MedicalHistory):
 
     history_data = payload.dict(exclude_none=True)
 
@@ -122,13 +122,13 @@ async def update_medical_history(patient_id: str, payload: MedicalHistory):
     if result.modified_count == 0:
         return None
 
-    return await get_patient_by_id(patient_id)
+    return get_patient_by_id(patient_id)
 
 
 # ==========================================
 # 📊 PATIENT STATISTICS
 # ==========================================
-async def get_patient_stats(patient_id: str):
+def get_patient_stats(patient_id: str):
 
     total_appointments = db.appointments.count_documents({
         "patient_id": patient_id
@@ -169,9 +169,9 @@ async def get_patient_stats(patient_id: str):
 # ==========================================
 # 🤖 GET PATIENT AI CONTEXT
 # ==========================================
-async def get_patient_ai_context(patient_id: str):
+def get_patient_ai_context(patient_id: str):
 
-    patient = await get_patient_by_id(patient_id)
+    patient = get_patient_by_id(patient_id)
 
     if not patient:
         return None

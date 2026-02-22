@@ -9,7 +9,7 @@ from app.schemas.billing_schema import BillingCreate, BillingUpdate
 # ==========================================
 # 💰 CREATE BILL
 # ==========================================
-async def create_bill(payload: BillingCreate):
+def create_bill(payload: BillingCreate):
 
     bill_data = payload.dict()
 
@@ -32,7 +32,7 @@ async def create_bill(payload: BillingCreate):
 # ==========================================
 # 📄 GET BILL BY ID
 # ==========================================
-async def get_bill_by_id(bill_id: str):
+def get_bill_by_id(bill_id: str):
     bill = db.billing.find_one({"_id": ObjectId(bill_id)})
     if bill:
         bill["id"] = str(bill["_id"])
@@ -42,8 +42,8 @@ async def get_bill_by_id(bill_id: str):
 # ==========================================
 # 📋 GET ALL BILLS (FILTERABLE)
 # ==========================================
-async def get_all_bills(
-    patient_id: Optional[int] = None,
+def get_all_bills(
+    patient_id: Optional[str] = None,
     status: Optional[str] = None,
     start_date: Optional[datetime] = None,
     end_date: Optional[datetime] = None,
@@ -74,7 +74,7 @@ async def get_all_bills(
 # ==========================================
 # 👤 GET PATIENT BILLS
 # ==========================================
-async def get_patient_bills(patient_id: int):
+def get_patient_bills(patient_id: str):
 
     bills = list(db.billing.find({"patient_id": patient_id}))
 
@@ -87,7 +87,7 @@ async def get_patient_bills(patient_id: int):
 # ==========================================
 # ✏ UPDATE BILL
 # ==========================================
-async def update_bill(bill_id: str, payload: BillingUpdate):
+def update_bill(bill_id: str, payload: BillingUpdate):
 
     update_data = {k: v for k, v in payload.dict().items() if v is not None}
 
@@ -107,13 +107,13 @@ async def update_bill(bill_id: str, payload: BillingUpdate):
     if result.modified_count == 0:
         return None
 
-    return await get_bill_by_id(bill_id)
+    return get_bill_by_id(bill_id)
 
 
 # ==========================================
 # ✅ MARK BILL AS PAID
 # ==========================================
-async def mark_bill_paid(bill_id: str):
+def mark_bill_paid(bill_id: str):
 
     result = db.billing.update_one(
         {"_id": ObjectId(bill_id)},
@@ -126,13 +126,13 @@ async def mark_bill_paid(bill_id: str):
     if result.modified_count == 0:
         return None
 
-    return await get_bill_by_id(bill_id)
+    return get_bill_by_id(bill_id)
 
 
 # ==========================================
 # 🔁 REFUND BILL
 # ==========================================
-async def refund_bill(bill_id: str):
+def refund_bill(bill_id: str):
 
     result = db.billing.update_one(
         {"_id": ObjectId(bill_id)},
@@ -145,13 +145,13 @@ async def refund_bill(bill_id: str):
     if result.modified_count == 0:
         return None
 
-    return await get_bill_by_id(bill_id)
+    return get_bill_by_id(bill_id)
 
 
 # ==========================================
 # 🗑 DELETE BILL
 # ==========================================
-async def delete_bill(bill_id: str):
+def delete_bill(bill_id: str):
 
     result = db.billing.delete_one({"_id": ObjectId(bill_id)})
     return result.deleted_count > 0
@@ -160,7 +160,7 @@ async def delete_bill(bill_id: str):
 # ==========================================
 # 📊 BILLING STATISTICS
 # ==========================================
-async def get_billing_statistics() -> Dict[str, Any]:
+def get_billing_statistics() -> Dict[str, Any]:
 
     total_bills = db.billing.count_documents({})
     paid_bills = db.billing.count_documents({"payment_status": "paid"})
